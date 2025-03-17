@@ -1,3 +1,4 @@
+import pandas as pd
 
 def addEconomyInRound(rounds, ticks, wanted_ticks):
     eco_ct = 5100
@@ -6,6 +7,10 @@ def addEconomyInRound(rounds, ticks, wanted_ticks):
     semi_t = 20000
     df = ticks[ticks['tick'].isin(wanted_ticks)]
     for index, round in rounds.iterrows():
+        freeze_end_tick = round["freeze_end"]
+        if(pd.isna(freeze_end_tick)):
+            continue
+        
         subdf = df[df["total_rounds_played"] == round["round_num"] - 1]
         equip_value_ct = subdf[subdf['side'] == 'ct']['current_equip_value'].sum()
         equip_value_t = subdf[subdf['side'] == 't']['current_equip_value'].sum()

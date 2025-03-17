@@ -1,7 +1,11 @@
+import pandas as pd
 
 def addTeamWinnerInRound(rounds_df, ticks_df):
     for index, row in rounds_df.iterrows():
         freeze_end_tick = row["freeze_end"]
+        if(pd.isna(freeze_end_tick)):
+            continue
+        
         winner = row["winner"]
         first_tick_df = ticks_df[ticks_df["tick"] == freeze_end_tick]
         ticks_t = first_tick_df.loc[first_tick_df['side'] == 't']
