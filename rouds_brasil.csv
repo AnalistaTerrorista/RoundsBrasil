@@ -1,0 +1,1146 @@
+,jogo,round_num,winner,CT_team_clan_name,T_team_clan_name,winner_clan_name,CT_equip_value,T_equip_value,armado
+0,eternal-fire-vs-3dmax-m2-anubis.dem,12,ct,Eternal Fire,3DMAX,Eternal Fire,semi,armado,n
+1,eternal-fire-vs-3dmax-m2-anubis.dem,19,ct,3DMAX,Eternal Fire,3DMAX,semi,armado,n
+2,eternal-fire-vs-3dmax-m2-anubis.dem,23,ct,3DMAX,Eternal Fire,3DMAX,semi,armado,n
+3,eternal-fire-vs-3dmax-m2-anubis.dem,8,ct,Eternal Fire,3DMAX,Eternal Fire,armado,semi,s
+4,eternal-fire-vs-3dmax-m2-anubis.dem,9,t,Eternal Fire,3DMAX,3DMAX,armado,eco,n
+5,eternal-fire-vs-3dmax-m2-anubis.dem,21,t,3DMAX,Eternal Fire,Eternal Fire,armado,semi,n
+6,eternal-fire-vs-3dmax-m2-anubis.dem,2,t,Eternal Fire,3DMAX,3DMAX,semi,armado,s
+7,eternal-fire-vs-3dmax-m2-anubis.dem,3,t,Eternal Fire,3DMAX,3DMAX,eco,armado,s
+8,eternal-fire-vs-3dmax-m2-anubis.dem,5,t,Eternal Fire,3DMAX,3DMAX,semi,armado,s
+9,eternal-fire-vs-3dmax-m2-anubis.dem,17,t,3DMAX,Eternal Fire,Eternal Fire,semi,armado,s
+10,eternal-fire-vs-3dmax-m1-inferno.dem,2,ct,Eternal Fire,3DMAX,Eternal Fire,semi,armado,n
+11,eternal-fire-vs-3dmax-m1-inferno.dem,3,ct,Eternal Fire,3DMAX,Eternal Fire,armado,semi,s
+12,eternal-fire-vs-3dmax-m1-inferno.dem,4,ct,Eternal Fire,3DMAX,Eternal Fire,armado,eco,s
+13,eternal-fire-vs-3dmax-m1-inferno.dem,19,ct,3DMAX,Eternal Fire,3DMAX,armado,semi,s
+14,eternal-fire-vs-3dmax-m1-inferno.dem,20,ct,3DMAX,Eternal Fire,3DMAX,armado,semi,s
+15,eternal-fire-vs-3dmax-m1-inferno.dem,22,ct,3DMAX,Eternal Fire,3DMAX,armado,semi,s
+16,eternal-fire-vs-3dmax-m1-inferno.dem,6,t,Eternal Fire,3DMAX,3DMAX,armado,semi,n
+17,eternal-fire-vs-3dmax-m1-inferno.dem,8,t,Eternal Fire,3DMAX,3DMAX,armado,semi,n
+18,eternal-fire-vs-3dmax-m1-inferno.dem,14,t,3DMAX,Eternal Fire,Eternal Fire,armado,semi,n
+19,eternal-fire-vs-3dmax-m1-inferno.dem,15,t,3DMAX,Eternal Fire,Eternal Fire,semi,armado,s
+20,eternal-fire-vs-3dmax-m1-inferno.dem,16,t,3DMAX,Eternal Fire,Eternal Fire,eco,armado,s
+21,falcons-vs-3dmax-m2-ancient.dem,12,ct,3DMAX,Team Falcons,3DMAX,armado,semi,s
+22,falcons-vs-3dmax-m2-ancient.dem,17,ct,Team Falcons,3DMAX,Team Falcons,armado,semi,s
+23,falcons-vs-3dmax-m2-ancient.dem,20,ct,Team Falcons,3DMAX,Team Falcons,armado,semi,s
+24,falcons-vs-3dmax-m2-ancient.dem,6,t,3DMAX,Team Falcons,Team Falcons,semi,armado,s
+25,falcons-vs-3dmax-m2-ancient.dem,10,t,3DMAX,Team Falcons,Team Falcons,semi,armado,s
+26,falcons-vs-3dmax-m3-dust2.dem,14,ct,3DMAX,Team Falcons,3DMAX,armado,semi,s
+27,falcons-vs-3dmax-m3-dust2.dem,15,ct,3DMAX,Team Falcons,3DMAX,armado,semi,s
+28,falcons-vs-3dmax-m3-dust2.dem,2,t,Team Falcons,3DMAX,3DMAX,semi,armado,s
+29,falcons-vs-3dmax-m3-dust2.dem,3,t,Team Falcons,3DMAX,3DMAX,eco,armado,s
+30,falcons-vs-3dmax-m3-dust2.dem,7,t,Team Falcons,3DMAX,3DMAX,semi,armado,s
+31,falcons-vs-3dmax-m3-dust2.dem,9,t,Team Falcons,3DMAX,3DMAX,semi,armado,s
+32,falcons-vs-3dmax-m1-inferno.dem,23,ct,3DMAX,Team Falcons,3DMAX,semi,armado,n
+33,falcons-vs-3dmax-m1-inferno.dem,7,ct,Team Falcons,3DMAX,Team Falcons,armado,eco,s
+34,falcons-vs-3dmax-m1-inferno.dem,24,ct,3DMAX,Team Falcons,3DMAX,armado,semi,s
+35,falcons-vs-3dmax-m1-inferno.dem,22,t,3DMAX,Team Falcons,Team Falcons,armado,semi,n
+36,falcons-vs-3dmax-m1-inferno.dem,3,t,Team Falcons,3DMAX,3DMAX,eco,armado,s
+37,falcons-vs-3dmax-m1-inferno.dem,12,t,Team Falcons,3DMAX,3DMAX,semi,armado,s
+38,falcons-vs-3dmax-m1-inferno.dem,16,t,3DMAX,Team Falcons,Team Falcons,semi,armado,s
+39,falcons-vs-3dmax-m1-inferno.dem,17,t,3DMAX,Team Falcons,Team Falcons,semi,armado,s
+40,liquid-vs-3dmax-m1-inferno.dem,3,ct,Team Liquid,3DMAX,Team Liquid,semi,armado,n
+41,liquid-vs-3dmax-m1-inferno.dem,6,ct,Team Liquid,3DMAX,Team Liquid,semi,armado,n
+42,liquid-vs-3dmax-m1-inferno.dem,8,ct,Team Liquid,3DMAX,Team Liquid,semi,armado,n
+43,liquid-vs-3dmax-m1-inferno.dem,10,ct,Team Liquid,3DMAX,Team Liquid,armado,eco,s
+44,liquid-vs-3dmax-m1-inferno.dem,20,ct,3DMAX,Team Liquid,3DMAX,armado,semi,s
+45,liquid-vs-3dmax-m1-inferno.dem,21,ct,3DMAX,Team Liquid,3DMAX,armado,eco,s
+46,liquid-vs-3dmax-m1-inferno.dem,2,t,Team Liquid,3DMAX,3DMAX,armado,semi,n
+47,liquid-vs-3dmax-m1-inferno.dem,4,t,Team Liquid,3DMAX,3DMAX,armado,semi,n
+48,liquid-vs-3dmax-m1-inferno.dem,18,t,3DMAX,Team Liquid,Team Liquid,armado,semi,n
+49,liquid-vs-3dmax-m1-inferno.dem,23,t,3DMAX,Team Liquid,Team Liquid,armado,semi,n
+50,liquid-vs-3dmax-m2-ancient.dem,5,ct,3DMAX,Team Liquid,3DMAX,semi,armado,n
+51,liquid-vs-3dmax-m2-ancient.dem,2,ct,3DMAX,Team Liquid,3DMAX,armado,semi,s
+52,liquid-vs-3dmax-m2-ancient.dem,3,ct,3DMAX,Team Liquid,3DMAX,armado,eco,s
+53,liquid-vs-3dmax-m2-ancient.dem,7,ct,3DMAX,Team Liquid,3DMAX,armado,semi,s
+54,liquid-vs-3dmax-m2-ancient.dem,9,ct,3DMAX,Team Liquid,3DMAX,armado,semi,s
+55,liquid-vs-3dmax-m2-ancient.dem,16,ct,Team Liquid,3DMAX,Team Liquid,armado,semi,s
+56,liquid-vs-3dmax-m2-ancient.dem,17,ct,Team Liquid,3DMAX,Team Liquid,armado,eco,s
+57,liquid-vs-3dmax-m2-ancient.dem,14,t,Team Liquid,3DMAX,3DMAX,eco,armado,s
+58,liquid-vs-3dmax-m2-ancient.dem,19,t,Team Liquid,3DMAX,3DMAX,semi,armado,s
+59,liquid-vs-3dmax-m3-anubis.dem,4,ct,3DMAX,Team Liquid,3DMAX,semi,armado,n
+60,liquid-vs-3dmax-m3-anubis.dem,14,ct,Team Liquid,3DMAX,Team Liquid,armado,eco,s
+61,liquid-vs-3dmax-m3-anubis.dem,16,ct,Team Liquid,3DMAX,Team Liquid,armado,semi,s
+62,liquid-vs-3dmax-m3-anubis.dem,17,ct,Team Liquid,3DMAX,Team Liquid,armado,semi,s
+63,liquid-vs-3dmax-m3-anubis.dem,6,t,3DMAX,Team Liquid,Team Liquid,armado,semi,n
+64,liquid-vs-3dmax-m3-anubis.dem,12,t,3DMAX,Team Liquid,Team Liquid,armado,semi,n
+65,liquid-vs-3dmax-m3-anubis.dem,8,t,3DMAX,Team Liquid,Team Liquid,semi,armado,s
+66,3dmax-vs-m80-m2-train.dem,2,ct,M80,3DMAX,M80,armado,eco,s
+67,3dmax-vs-m80-m2-train.dem,16,ct,3DMAX,M80,3DMAX,armado,semi,s
+68,3dmax-vs-m80-m2-train.dem,17,ct,3DMAX,M80,3DMAX,armado,eco,s
+69,3dmax-vs-m80-m2-train.dem,5,t,M80,3DMAX,3DMAX,armado,eco,n
+70,3dmax-vs-m80-m2-train.dem,7,t,M80,3DMAX,3DMAX,semi,armado,s
+71,3dmax-vs-m80-m2-train.dem,8,t,M80,3DMAX,3DMAX,semi,armado,s
+72,3dmax-vs-m80-m2-train.dem,10,t,M80,3DMAX,3DMAX,semi,armado,s
+73,3dmax-vs-m80-m2-train.dem,12,t,M80,3DMAX,3DMAX,semi,armado,s
+74,3dmax-vs-m80-m1-anubis.dem,12,ct,M80,3DMAX,M80,semi,armado,n
+75,3dmax-vs-m80-m1-anubis.dem,20,ct,3DMAX,M80,3DMAX,armado,semi,s
+76,3dmax-vs-m80-m1-anubis.dem,16,t,3DMAX,M80,M80,armado,semi,n
+77,3dmax-vs-m80-m1-anubis.dem,2,t,M80,3DMAX,3DMAX,semi,armado,s
+78,3dmax-vs-m80-m1-anubis.dem,3,t,M80,3DMAX,3DMAX,eco,armado,s
+79,3dmax-vs-m80-m1-anubis.dem,5,t,M80,3DMAX,3DMAX,semi,armado,s
+80,3dmax-vs-m80-m1-anubis.dem,7,t,M80,3DMAX,3DMAX,semi,armado,s
+81,3dmax-vs-m80-m1-anubis.dem,17,t,3DMAX,M80,M80,semi,armado,s
+82,3dmax-vs-tyloo-m1-ancient.dem,6,ct,3DMAX,TYLOO,3DMAX,semi,armado,n
+83,3dmax-vs-tyloo-m1-ancient.dem,2,ct,3DMAX,TYLOO,3DMAX,armado,eco,s
+84,3dmax-vs-tyloo-m1-ancient.dem,18,ct,TYLOO,3DMAX,TYLOO,armado,eco,s
+85,3dmax-vs-tyloo-m1-ancient.dem,23,ct,TYLOO,3DMAX,TYLOO,armado,semi,s
+86,3dmax-vs-tyloo-m1-ancient.dem,4,t,3DMAX,TYLOO,TYLOO,armado,semi,n
+87,3dmax-vs-tyloo-m1-ancient.dem,21,t,TYLOO,3DMAX,3DMAX,armado,semi,n
+88,3dmax-vs-tyloo-m1-ancient.dem,8,t,3DMAX,TYLOO,TYLOO,eco,armado,s
+89,3dmax-vs-tyloo-m1-ancient.dem,10,t,3DMAX,TYLOO,TYLOO,semi,armado,s
+90,3dmax-vs-tyloo-m1-ancient.dem,15,t,TYLOO,3DMAX,3DMAX,semi,armado,s
+91,3dmax-vs-tyloo-m2-inferno.dem,3,ct,TYLOO,3DMAX,TYLOO,armado,eco,s
+92,3dmax-vs-tyloo-m2-inferno.dem,5,ct,TYLOO,3DMAX,TYLOO,armado,semi,s
+93,3dmax-vs-tyloo-m2-inferno.dem,10,ct,TYLOO,3DMAX,TYLOO,armado,semi,s
+94,3dmax-vs-tyloo-m2-inferno.dem,15,t,3DMAX,TYLOO,TYLOO,armado,semi,n
+95,3dmax-vs-tyloo-m2-inferno.dem,17,t,3DMAX,TYLOO,TYLOO,eco,armado,s
+96,the-mongolz-vs-3dmax-m1-dust2.dem,12,ct,The MongolZ,3DMAX,The MongolZ,semi,armado,n
+97,the-mongolz-vs-3dmax-m1-dust2.dem,4,ct,The MongolZ,3DMAX,The MongolZ,armado,eco,s
+98,the-mongolz-vs-3dmax-m1-dust2.dem,8,ct,The MongolZ,3DMAX,The MongolZ,armado,semi,s
+99,the-mongolz-vs-3dmax-m1-dust2.dem,14,t,3DMAX,The MongolZ,The MongolZ,armado,semi,n
+100,the-mongolz-vs-3dmax-m1-dust2.dem,15,t,3DMAX,The MongolZ,The MongolZ,semi,armado,s
+101,the-mongolz-vs-3dmax-m1-dust2.dem,16,t,3DMAX,The MongolZ,The MongolZ,eco,armado,s
+102,the-mongolz-vs-3dmax-m2-ancient.dem,12,ct,3DMAX,The MongolZ,3DMAX,armado,semi,s
+103,the-mongolz-vs-3dmax-m2-ancient.dem,15,ct,The MongolZ,3DMAX,The MongolZ,armado,semi,s
+104,the-mongolz-vs-3dmax-m2-ancient.dem,17,ct,The MongolZ,3DMAX,The MongolZ,armado,semi,s
+105,the-mongolz-vs-3dmax-m2-ancient.dem,18,t,The MongolZ,3DMAX,3DMAX,armado,semi,n
+106,the-mongolz-vs-3dmax-m2-ancient.dem,2,t,3DMAX,The MongolZ,The MongolZ,semi,armado,s
+107,the-mongolz-vs-3dmax-m2-ancient.dem,3,t,3DMAX,The MongolZ,The MongolZ,eco,armado,s
+108,the-mongolz-vs-3dmax-m2-ancient.dem,5,t,3DMAX,The MongolZ,The MongolZ,semi,armado,s
+109,3dmax-vs-saw-m1-nuke.dem,3,t,3DMAX,SAW,SAW,semi,armado,s
+110,3dmax-vs-saw-m1-nuke.dem,7,t,3DMAX,SAW,SAW,semi,armado,s
+111,3dmax-vs-saw-m1-nuke.dem,10,t,3DMAX,SAW,SAW,semi,armado,s
+112,3dmax-vs-saw-m1-nuke.dem,12,t,3DMAX,SAW,SAW,semi,armado,s
+113,3dmax-vs-saw-m1-nuke.dem,15,t,SAW,3DMAX,3DMAX,eco,armado,s
+114,3dmax-vs-saw-m1-nuke.dem,17,t,SAW,3DMAX,3DMAX,semi,armado,s
+115,3dmax-vs-saw-m1-nuke.dem,19,t,SAW,3DMAX,3DMAX,semi,armado,s
+116,3dmax-vs-saw-m2-dust2.dem,2,ct,SAW,3DMAX,SAW,armado,semi,s
+117,3dmax-vs-saw-m2-dust2.dem,3,ct,SAW,3DMAX,SAW,armado,eco,s
+118,3dmax-vs-saw-m2-dust2.dem,11,ct,SAW,3DMAX,SAW,armado,semi,s
+119,3dmax-vs-saw-m2-dust2.dem,20,ct,3DMAX,SAW,3DMAX,armado,eco,s
+120,3dmax-vs-saw-m2-dust2.dem,22,ct,3DMAX,SAW,3DMAX,armado,semi,s
+121,3dmax-vs-saw-m2-dust2.dem,5,t,SAW,3DMAX,3DMAX,armado,semi,n
+122,3dmax-vs-saw-m2-dust2.dem,9,t,SAW,3DMAX,3DMAX,armado,semi,n
+123,3dmax-vs-saw-m2-dust2.dem,12,t,SAW,3DMAX,3DMAX,armado,semi,n
+124,3dmax-vs-saw-m2-dust2.dem,15,t,3DMAX,SAW,SAW,semi,armado,s
+125,astralis-vs-big-m1-ancient.dem,6,ct,Astralis,BIG,Astralis,semi,armado,n
+126,astralis-vs-big-m1-ancient.dem,9,ct,Astralis,BIG,Astralis,armado,semi,s
+127,astralis-vs-big-m1-ancient.dem,19,ct,BIG,Astralis,BIG,armado,semi,s
+128,astralis-vs-big-m1-ancient.dem,3,t,Astralis,BIG,BIG,eco,armado,s
+129,astralis-vs-big-m1-ancient.dem,14,t,BIG,Astralis,Astralis,eco,armado,s
+130,astralis-vs-big-m1-ancient.dem,16,t,BIG,Astralis,Astralis,semi,armado,s
+131,astralis-vs-big-m2-inferno.dem,12,ct,BIG,Astralis,BIG,armado,semi,s
+132,astralis-vs-big-m2-inferno.dem,15,ct,Astralis,BIG,Astralis,armado,semi,s
+133,astralis-vs-big-m2-inferno.dem,21,ct,Astralis,BIG,Astralis,armado,semi,s
+134,astralis-vs-big-m2-inferno.dem,16,t,Astralis,BIG,BIG,armado,semi,n
+135,astralis-vs-big-m2-inferno.dem,2,t,BIG,Astralis,Astralis,semi,armado,s
+136,astralis-vs-big-m2-inferno.dem,3,t,BIG,Astralis,Astralis,eco,armado,s
+137,astralis-vs-big-m2-inferno.dem,5,t,BIG,Astralis,Astralis,semi,armado,s
+138,astralis-vs-big-m2-inferno.dem,8,t,BIG,Astralis,Astralis,semi,armado,s
+139,astralis-vs-big-m2-inferno.dem,17,t,Astralis,BIG,BIG,semi,armado,s
+140,astralis-vs-big-m2-inferno.dem,18,t,Astralis,BIG,BIG,semi,armado,s
+141,astralis-vs-faze-m3-ancient.dem,16,ct,FaZe Clan,Astralis,FaZe Clan,semi,armado,n
+142,astralis-vs-faze-m3-ancient.dem,2,ct,Astralis,FaZe Clan,Astralis,armado,semi,s
+143,astralis-vs-faze-m3-ancient.dem,3,ct,Astralis,FaZe Clan,Astralis,armado,eco,s
+144,astralis-vs-faze-m3-ancient.dem,5,t,Astralis,FaZe Clan,FaZe Clan,armado,semi,n
+145,astralis-vs-faze-m3-ancient.dem,8,t,Astralis,FaZe Clan,FaZe Clan,semi,armado,s
+146,astralis-vs-faze-m3-ancient.dem,9,t,Astralis,FaZe Clan,FaZe Clan,eco,armado,s
+147,astralis-vs-faze-m3-ancient.dem,12,t,Astralis,FaZe Clan,FaZe Clan,semi,armado,s
+148,astralis-vs-faze-m3-ancient.dem,18,t,FaZe Clan,Astralis,Astralis,semi,armado,s
+149,astralis-vs-faze-m1-mirage.dem,2,ct,Astralis,FaZe Clan,Astralis,armado,eco,s
+150,astralis-vs-faze-m1-mirage.dem,4,ct,Astralis,FaZe Clan,Astralis,armado,semi,s
+151,astralis-vs-faze-m1-mirage.dem,16,ct,FaZe Clan,Astralis,FaZe Clan,armado,semi,s
+152,astralis-vs-faze-m1-mirage.dem,24,ct,FaZe Clan,Astralis,FaZe Clan,armado,semi,s
+153,astralis-vs-faze-m1-mirage.dem,51,ct,FaZe Clan,Astralis,FaZe Clan,armado,semi,s
+154,astralis-vs-faze-m1-mirage.dem,6,t,Astralis,FaZe Clan,FaZe Clan,armado,semi,n
+155,astralis-vs-faze-m1-mirage.dem,8,t,Astralis,FaZe Clan,FaZe Clan,semi,armado,s
+156,astralis-vs-faze-m1-mirage.dem,14,t,FaZe Clan,Astralis,Astralis,eco,armado,s
+157,astralis-vs-faze-m1-mirage.dem,17,t,FaZe Clan,Astralis,Astralis,eco,armado,s
+158,astralis-vs-faze-m1-mirage.dem,19,t,FaZe Clan,Astralis,Astralis,semi,armado,s
+159,astralis-vs-faze-m2-inferno.dem,21,ct,Astralis,FaZe Clan,Astralis,semi,armado,n
+160,astralis-vs-faze-m2-inferno.dem,15,ct,Astralis,FaZe Clan,Astralis,armado,semi,s
+161,astralis-vs-faze-m2-inferno.dem,16,ct,Astralis,FaZe Clan,Astralis,armado,eco,s
+162,astralis-vs-faze-m2-inferno.dem,10,t,FaZe Clan,Astralis,Astralis,armado,semi,n
+163,astralis-vs-faze-m2-inferno.dem,2,t,FaZe Clan,Astralis,Astralis,eco,armado,s
+164,astralis-vs-faze-m2-inferno.dem,3,t,FaZe Clan,Astralis,Astralis,semi,armado,s
+165,astralis-vs-faze-m2-inferno.dem,6,t,FaZe Clan,Astralis,Astralis,semi,armado,s
+166,astralis-vs-faze-m2-inferno.dem,19,t,Astralis,FaZe Clan,FaZe Clan,eco,armado,s
+167,falcons-vs-astralis-m1-ancient.dem,11,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+168,falcons-vs-astralis-m1-ancient.dem,12,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+169,falcons-vs-astralis-m1-ancient.dem,14,ct,Astralis,Team Falcons,Astralis,armado,eco,s
+170,falcons-vs-astralis-m1-ancient.dem,17,ct,Astralis,Team Falcons,Astralis,armado,eco,s
+171,falcons-vs-astralis-m1-ancient.dem,19,ct,Astralis,Team Falcons,Astralis,armado,semi,s
+172,falcons-vs-astralis-m1-ancient.dem,3,t,Team Falcons,Astralis,Astralis,semi,armado,s
+173,falcons-vs-astralis-m1-ancient.dem,6,t,Team Falcons,Astralis,Astralis,semi,armado,s
+174,falcons-vs-astralis-m2-dust2.dem,17,ct,Team Falcons,Astralis,Team Falcons,semi,armado,n
+175,falcons-vs-astralis-m2-dust2.dem,19,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+176,falcons-vs-astralis-m2-dust2.dem,20,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+177,falcons-vs-astralis-m2-dust2.dem,3,t,Astralis,Team Falcons,Team Falcons,armado,semi,n
+178,falcons-vs-astralis-m2-dust2.dem,4,t,Astralis,Team Falcons,Team Falcons,semi,armado,s
+179,falcons-vs-astralis-m2-dust2.dem,5,t,Astralis,Team Falcons,Team Falcons,eco,armado,s
+180,falcons-vs-astralis-m2-dust2.dem,7,t,Astralis,Team Falcons,Team Falcons,eco,armado,s
+181,falcons-vs-astralis-m2-dust2.dem,11,t,Astralis,Team Falcons,Team Falcons,semi,armado,s
+182,falcons-vs-astralis-m2-dust2.dem,14,t,Team Falcons,Astralis,Astralis,semi,armado,s
+183,falcons-vs-astralis-m2-dust2.dem,15,t,Team Falcons,Astralis,Astralis,eco,armado,s
+184,falcons-vs-astralis-m3-nuke.dem,7,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+185,falcons-vs-astralis-m3-nuke.dem,10,ct,Team Falcons,Astralis,Team Falcons,armado,eco,s
+186,falcons-vs-astralis-m3-nuke.dem,12,ct,Team Falcons,Astralis,Team Falcons,armado,semi,s
+187,falcons-vs-astralis-m3-nuke.dem,15,t,Astralis,Team Falcons,Team Falcons,semi,armado,s
+188,falcons-vs-astralis-m3-nuke.dem,18,t,Astralis,Team Falcons,Team Falcons,semi,armado,s
+189,mouz-vs-astralis-m2-nuke.dem,4,ct,Astralis,MOUZ,Astralis,armado,semi,s
+190,mouz-vs-astralis-m2-nuke.dem,7,t,Astralis,MOUZ,MOUZ,semi,armado,s
+191,mouz-vs-astralis-m2-nuke.dem,8,t,Astralis,MOUZ,MOUZ,semi,armado,s
+192,mouz-vs-astralis-m2-nuke.dem,16,t,MOUZ,Astralis,Astralis,eco,armado,s
+193,mouz-vs-astralis-m2-nuke.dem,18,t,MOUZ,Astralis,Astralis,semi,armado,s
+194,mouz-vs-astralis-m3-ancient.dem,2,ct,MOUZ,Astralis,MOUZ,armado,semi,s
+195,mouz-vs-astralis-m3-ancient.dem,10,ct,MOUZ,Astralis,MOUZ,armado,semi,s
+196,mouz-vs-astralis-m3-ancient.dem,12,ct,MOUZ,Astralis,MOUZ,armado,semi,s
+197,mouz-vs-astralis-m3-ancient.dem,3,t,MOUZ,Astralis,Astralis,semi,armado,s
+198,mouz-vs-astralis-m3-ancient.dem,4,t,MOUZ,Astralis,Astralis,eco,armado,s
+199,mouz-vs-astralis-m3-ancient.dem,7,t,MOUZ,Astralis,Astralis,eco,armado,s
+200,mouz-vs-astralis-m3-ancient.dem,14,t,Astralis,MOUZ,MOUZ,semi,armado,s
+201,mouz-vs-astralis-m3-ancient.dem,15,t,Astralis,MOUZ,MOUZ,eco,armado,s
+202,mouz-vs-astralis-m3-ancient.dem,17,t,Astralis,MOUZ,MOUZ,semi,armado,s
+203,mouz-vs-astralis-m1-inferno.dem,7,ct,MOUZ,Astralis,MOUZ,armado,semi,s
+204,mouz-vs-astralis-m1-inferno.dem,14,ct,Astralis,MOUZ,Astralis,armado,eco,s
+205,mouz-vs-astralis-m1-inferno.dem,16,ct,Astralis,MOUZ,Astralis,armado,semi,s
+206,mouz-vs-astralis-m1-inferno.dem,17,ct,Astralis,MOUZ,Astralis,armado,semi,s
+207,mouz-vs-astralis-m1-inferno.dem,3,t,MOUZ,Astralis,Astralis,semi,armado,s
+208,mouz-vs-astralis-m1-inferno.dem,8,t,MOUZ,Astralis,Astralis,semi,armado,s
+209,mouz-vs-astralis-m1-inferno.dem,10,t,MOUZ,Astralis,Astralis,semi,armado,s
+210,mouz-vs-astralis-m1-inferno.dem,21,t,Astralis,MOUZ,MOUZ,eco,armado,s
+211,mouz-vs-astralis-m1-inferno.dem,24,t,Astralis,MOUZ,MOUZ,semi,armado,s
+212,saw-vs-astralis-m1-nuke.dem,3,ct,Astralis,SAW,Astralis,armado,semi,s
+213,saw-vs-astralis-m1-nuke.dem,4,ct,Astralis,SAW,Astralis,armado,eco,s
+214,saw-vs-astralis-m1-nuke.dem,7,ct,Astralis,SAW,Astralis,armado,semi,s
+215,saw-vs-astralis-m1-nuke.dem,9,ct,Astralis,SAW,Astralis,armado,semi,s
+216,saw-vs-astralis-m1-nuke.dem,15,ct,SAW,Astralis,SAW,armado,eco,s
+217,saw-vs-astralis-m1-nuke.dem,8,t,Astralis,SAW,SAW,semi,armado,s
+218,saw-vs-astralis-m1-nuke.dem,10,t,Astralis,SAW,SAW,semi,armado,s
+219,saw-vs-astralis-m1-nuke.dem,11,t,Astralis,SAW,SAW,eco,armado,s
+220,saw-vs-astralis-m1-nuke.dem,18,t,SAW,Astralis,Astralis,eco,armado,s
+221,saw-vs-astralis-m1-nuke.dem,20,t,SAW,Astralis,Astralis,semi,armado,s
+222,saw-vs-astralis-m2-inferno.dem,18,ct,Astralis,SAW,Astralis,semi,armado,n
+223,saw-vs-astralis-m2-inferno.dem,2,ct,SAW,Astralis,SAW,armado,semi,s
+224,saw-vs-astralis-m2-inferno.dem,14,ct,Astralis,SAW,Astralis,armado,semi,s
+225,saw-vs-astralis-m2-inferno.dem,19,ct,Astralis,SAW,Astralis,armado,semi,s
+226,saw-vs-astralis-m2-inferno.dem,3,t,SAW,Astralis,Astralis,armado,semi,n
+227,saw-vs-astralis-m2-inferno.dem,15,t,Astralis,SAW,SAW,armado,eco,n
+228,saw-vs-astralis-m2-inferno.dem,17,t,Astralis,SAW,SAW,armado,semi,n
+229,saw-vs-astralis-m2-inferno.dem,5,t,SAW,Astralis,Astralis,eco,armado,s
+230,saw-vs-astralis-m2-inferno.dem,7,t,SAW,Astralis,Astralis,semi,armado,s
+231,saw-vs-astralis-m2-inferno.dem,9,t,SAW,Astralis,Astralis,semi,armado,s
+232,the-mongolz-vs-astralis-m1-mirage.dem,3,ct,Astralis,The MongolZ,Astralis,armado,semi,s
+233,the-mongolz-vs-astralis-m1-mirage.dem,4,ct,Astralis,The MongolZ,Astralis,armado,eco,s
+234,the-mongolz-vs-astralis-m1-mirage.dem,6,ct,Astralis,The MongolZ,Astralis,armado,semi,s
+235,the-mongolz-vs-astralis-m1-mirage.dem,8,ct,Astralis,The MongolZ,Astralis,armado,semi,s
+236,the-mongolz-vs-astralis-m1-mirage.dem,14,ct,The MongolZ,Astralis,The MongolZ,armado,eco,s
+237,the-mongolz-vs-astralis-m1-mirage.dem,20,ct,The MongolZ,Astralis,The MongolZ,armado,semi,s
+238,the-mongolz-vs-astralis-m1-mirage.dem,11,t,Astralis,The MongolZ,The MongolZ,semi,armado,s
+239,the-mongolz-vs-astralis-m1-mirage.dem,12,t,Astralis,The MongolZ,The MongolZ,semi,armado,s
+240,the-mongolz-vs-astralis-m1-mirage.dem,16,t,The MongolZ,Astralis,Astralis,semi,armado,s
+241,the-mongolz-vs-astralis-m1-mirage.dem,17,t,The MongolZ,Astralis,Astralis,eco,armado,s
+242,the-mongolz-vs-astralis-m2-inferno.dem,3,ct,The MongolZ,Astralis,The MongolZ,semi,armado,n
+243,the-mongolz-vs-astralis-m2-inferno.dem,12,ct,The MongolZ,Astralis,The MongolZ,semi,armado,n
+244,the-mongolz-vs-astralis-m2-inferno.dem,21,ct,Astralis,The MongolZ,Astralis,semi,armado,n
+245,the-mongolz-vs-astralis-m2-inferno.dem,4,ct,The MongolZ,Astralis,The MongolZ,armado,semi,s
+246,the-mongolz-vs-astralis-m2-inferno.dem,5,ct,The MongolZ,Astralis,The MongolZ,armado,eco,s
+247,the-mongolz-vs-astralis-m2-inferno.dem,23,ct,Astralis,The MongolZ,Astralis,armado,semi,s
+248,the-mongolz-vs-astralis-m2-inferno.dem,24,ct,Astralis,The MongolZ,Astralis,armado,semi,s
+249,the-mongolz-vs-astralis-m2-inferno.dem,2,t,The MongolZ,Astralis,Astralis,armado,semi,n
+250,the-mongolz-vs-astralis-m2-inferno.dem,14,t,Astralis,The MongolZ,The MongolZ,armado,semi,n
+251,the-mongolz-vs-astralis-m2-inferno.dem,7,t,The MongolZ,Astralis,Astralis,semi,armado,s
+252,the-mongolz-vs-astralis-m2-inferno.dem,8,t,The MongolZ,Astralis,Astralis,eco,armado,s
+253,the-mongolz-vs-astralis-m2-inferno.dem,11,t,The MongolZ,Astralis,Astralis,semi,armado,s
+254,the-mongolz-vs-astralis-m2-inferno.dem,15,t,Astralis,The MongolZ,The MongolZ,semi,armado,s
+255,the-mongolz-vs-astralis-m2-inferno.dem,16,t,Astralis,The MongolZ,The MongolZ,eco,armado,s
+256,the-mongolz-vs-astralis-m2-inferno.dem,20,t,Astralis,The MongolZ,The MongolZ,semi,armado,s
+257,falcons-vs-furia-m1-train.dem,3,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+258,falcons-vs-furia-m1-train.dem,4,ct,Team Falcons,FURIA,Team Falcons,armado,eco,s
+259,falcons-vs-furia-m1-train.dem,6,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+260,falcons-vs-furia-m1-train.dem,10,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+261,falcons-vs-furia-m1-train.dem,15,ct,FURIA,Team Falcons,FURIA,armado,semi,s
+262,falcons-vs-furia-m1-train.dem,16,ct,FURIA,Team Falcons,FURIA,armado,eco,s
+263,falcons-vs-furia-m1-train.dem,18,t,FURIA,Team Falcons,Team Falcons,armado,semi,n
+264,falcons-vs-furia-m1-train.dem,23,t,FURIA,Team Falcons,Team Falcons,armado,semi,n
+265,falcons-vs-furia-m1-train.dem,12,t,Team Falcons,FURIA,FURIA,semi,armado,s
+266,falcons-vs-furia-m1-train.dem,19,t,FURIA,Team Falcons,Team Falcons,eco,armado,s
+267,falcons-vs-furia-m2-mirage.dem,2,ct,Team Falcons,FURIA,Team Falcons,semi,armado,n
+268,falcons-vs-furia-m2-mirage.dem,3,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+269,falcons-vs-furia-m2-mirage.dem,4,ct,Team Falcons,FURIA,Team Falcons,armado,eco,s
+270,falcons-vs-furia-m2-mirage.dem,19,ct,FURIA,Team Falcons,FURIA,armado,eco,s
+271,falcons-vs-furia-m2-mirage.dem,14,t,FURIA,Team Falcons,Team Falcons,armado,semi,n
+272,falcons-vs-furia-m2-mirage.dem,23,t,FURIA,Team Falcons,Team Falcons,armado,semi,n
+273,falcons-vs-furia-m2-mirage.dem,8,t,Team Falcons,FURIA,FURIA,semi,armado,s
+274,falcons-vs-furia-m2-mirage.dem,15,t,FURIA,Team Falcons,Team Falcons,semi,armado,s
+275,falcons-vs-furia-m2-mirage.dem,16,t,FURIA,Team Falcons,Team Falcons,eco,armado,s
+276,falcons-vs-furia-m2-mirage.dem,24,t,FURIA,Team Falcons,Team Falcons,semi,armado,s
+277,falcons-vs-furia-m3-dust2.dem,3,ct,FURIA,Team Falcons,FURIA,semi,armado,n
+278,falcons-vs-furia-m3-dust2.dem,6,ct,FURIA,Team Falcons,FURIA,armado,semi,s
+279,falcons-vs-furia-m3-dust2.dem,7,ct,FURIA,Team Falcons,FURIA,armado,eco,s
+280,falcons-vs-furia-m3-dust2.dem,18,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+281,falcons-vs-furia-m3-dust2.dem,19,ct,Team Falcons,FURIA,Team Falcons,armado,semi,s
+282,falcons-vs-furia-m3-dust2.dem,4,t,FURIA,Team Falcons,Team Falcons,armado,semi,n
+283,falcons-vs-furia-m3-dust2.dem,21,t,Team Falcons,FURIA,FURIA,armado,semi,n
+284,falcons-vs-furia-m3-dust2.dem,10,t,FURIA,Team Falcons,Team Falcons,eco,armado,s
+285,falcons-vs-furia-m3-dust2.dem,14,t,Team Falcons,FURIA,FURIA,semi,armado,s
+286,falcons-vs-furia-m3-dust2.dem,15,t,Team Falcons,FURIA,FURIA,eco,armado,s
+287,furia-vs-mibr-m3-inferno.dem,5,t,MIBR,FURIA,FURIA,semi,armado,s
+288,furia-vs-mibr-m3-inferno.dem,11,t,MIBR,FURIA,FURIA,semi,armado,s
+289,furia-vs-mibr-m1-anubis.dem,12,ct,MIBR,FURIA,MIBR,armado,semi,s
+290,furia-vs-mibr-m1-anubis.dem,18,ct,FURIA,MIBR,FURIA,armado,semi,s
+291,furia-vs-mibr-m1-anubis.dem,20,t,FURIA,MIBR,MIBR,armado,semi,n
+292,furia-vs-mibr-m1-anubis.dem,4,t,MIBR,FURIA,FURIA,semi,armado,s
+293,furia-vs-mibr-m1-anubis.dem,14,t,FURIA,MIBR,MIBR,semi,armado,s
+294,furia-vs-mibr-m1-anubis.dem,15,t,FURIA,MIBR,MIBR,semi,armado,s
+295,furia-vs-mibr-m2-mirage.dem,17,ct,FURIA,MIBR,FURIA,semi,armado,n
+296,furia-vs-mibr-m2-mirage.dem,3,ct,MIBR,FURIA,MIBR,armado,eco,s
+297,furia-vs-mibr-m2-mirage.dem,23,ct,FURIA,MIBR,FURIA,armado,eco,s
+298,furia-vs-mibr-m2-mirage.dem,19,t,FURIA,MIBR,MIBR,armado,semi,n
+299,furia-vs-mibr-m2-mirage.dem,7,t,MIBR,FURIA,FURIA,semi,armado,s
+300,furia-vs-mibr-m2-mirage.dem,9,t,MIBR,FURIA,FURIA,semi,armado,s
+301,furia-vs-mibr-m2-mirage.dem,15,t,FURIA,MIBR,MIBR,semi,armado,s
+302,furia-vs-mibr-m2-mirage.dem,20,t,FURIA,MIBR,MIBR,semi,armado,s
+303,liquid-vs-furia-m1-dust2.dem,8,ct,Team Liquid,FURIA,Team Liquid,armado,semi,s
+304,liquid-vs-furia-m1-dust2.dem,9,ct,Team Liquid,FURIA,Team Liquid,armado,semi,s
+305,liquid-vs-furia-m1-dust2.dem,10,ct,Team Liquid,FURIA,Team Liquid,armado,semi,s
+306,liquid-vs-furia-m1-dust2.dem,14,ct,FURIA,Team Liquid,FURIA,armado,semi,s
+307,liquid-vs-furia-m1-dust2.dem,15,ct,FURIA,Team Liquid,FURIA,armado,eco,s
+308,liquid-vs-furia-m1-dust2.dem,4,t,Team Liquid,FURIA,FURIA,armado,semi,n
+309,liquid-vs-furia-m1-dust2.dem,11,t,Team Liquid,FURIA,FURIA,armado,semi,n
+310,liquid-vs-furia-m1-dust2.dem,5,t,Team Liquid,FURIA,FURIA,semi,armado,s
+311,liquid-vs-furia-m1-dust2.dem,18,t,FURIA,Team Liquid,Team Liquid,semi,armado,s
+312,liquid-vs-furia-m1-dust2.dem,19,t,FURIA,Team Liquid,Team Liquid,semi,armado,s
+313,liquid-vs-furia-m1-dust2.dem,23,t,FURIA,Team Liquid,Team Liquid,semi,armado,s
+314,liquid-vs-furia-m2-anubis.dem,8,ct,Team Liquid,FURIA,Team Liquid,armado,semi,s
+315,liquid-vs-furia-m2-anubis.dem,10,ct,Team Liquid,FURIA,Team Liquid,armado,semi,s
+316,liquid-vs-furia-m2-anubis.dem,11,t,Team Liquid,FURIA,FURIA,armado,semi,n
+317,liquid-vs-furia-m2-anubis.dem,3,t,Team Liquid,FURIA,FURIA,semi,armado,s
+318,liquid-vs-furia-m2-anubis.dem,5,t,Team Liquid,FURIA,FURIA,semi,armado,s
+319,liquid-vs-furia-m2-anubis.dem,16,t,FURIA,Team Liquid,Team Liquid,eco,armado,s
+320,mouz-vs-furia-m1-train.dem,3,ct,MOUZ,FURIA,MOUZ,semi,armado,n
+321,mouz-vs-furia-m1-train.dem,4,ct,MOUZ,FURIA,MOUZ,armado,semi,s
+322,mouz-vs-furia-m1-train.dem,5,ct,MOUZ,FURIA,MOUZ,armado,eco,s
+323,mouz-vs-furia-m1-train.dem,11,t,MOUZ,FURIA,FURIA,armado,semi,n
+324,mouz-vs-furia-m1-train.dem,8,t,MOUZ,FURIA,FURIA,semi,armado,s
+325,mouz-vs-furia-m1-train.dem,15,t,FURIA,MOUZ,MOUZ,semi,armado,s
+326,mouz-vs-furia-m1-train.dem,19,t,FURIA,MOUZ,MOUZ,semi,armado,s
+327,mouz-vs-furia-m1-train.dem,22,t,FURIA,MOUZ,MOUZ,semi,armado,s
+328,mouz-vs-furia-m2-inferno.dem,2,ct,FURIA,MOUZ,FURIA,semi,armado,n
+329,mouz-vs-furia-m2-inferno.dem,24,ct,MOUZ,FURIA,MOUZ,semi,armado,n
+330,mouz-vs-furia-m2-inferno.dem,11,ct,FURIA,MOUZ,FURIA,armado,semi,s
+331,mouz-vs-furia-m2-inferno.dem,12,ct,FURIA,MOUZ,FURIA,armado,semi,s
+332,mouz-vs-furia-m2-inferno.dem,14,ct,MOUZ,FURIA,MOUZ,armado,eco,s
+333,mouz-vs-furia-m2-inferno.dem,3,t,FURIA,MOUZ,MOUZ,armado,semi,n
+334,mouz-vs-furia-m2-inferno.dem,17,t,MOUZ,FURIA,FURIA,armado,semi,n
+335,mouz-vs-furia-m2-inferno.dem,4,t,FURIA,MOUZ,MOUZ,semi,armado,s
+336,mouz-vs-furia-m2-inferno.dem,5,t,FURIA,MOUZ,MOUZ,eco,armado,s
+337,mouz-vs-furia-m2-inferno.dem,9,t,FURIA,MOUZ,MOUZ,semi,armado,s
+338,mouz-vs-furia-m2-inferno.dem,19,t,MOUZ,FURIA,FURIA,eco,armado,s
+339,mouz-vs-furia-m2-inferno.dem,21,t,MOUZ,FURIA,FURIA,semi,armado,s
+340,mouz-vs-furia-m3-nuke.dem,7,ct,FURIA,MOUZ,FURIA,semi,armado,n
+341,mouz-vs-furia-m3-nuke.dem,10,ct,FURIA,MOUZ,FURIA,armado,semi,s
+342,mouz-vs-furia-m3-nuke.dem,14,ct,MOUZ,FURIA,MOUZ,armado,semi,s
+343,mouz-vs-furia-m3-nuke.dem,15,ct,MOUZ,FURIA,MOUZ,armado,eco,s
+344,mouz-vs-furia-m3-nuke.dem,18,t,MOUZ,FURIA,FURIA,armado,semi,n
+345,mouz-vs-furia-m3-nuke.dem,3,t,FURIA,MOUZ,MOUZ,eco,armado,s
+346,mouz-vs-furia-m3-nuke.dem,5,t,FURIA,MOUZ,MOUZ,semi,armado,s
+347,mouz-vs-furia-m3-nuke.dem,19,t,MOUZ,FURIA,FURIA,semi,armado,s
+348,mouz-vs-furia-m3-nuke.dem,20,t,MOUZ,FURIA,FURIA,semi,armado,s
+349,mouz-vs-furia-m3-nuke.dem,22,t,MOUZ,FURIA,FURIA,semi,armado,s
+350,furia-vs-m80-m2-dust2.dem,2,ct,M80,FURIA,M80,armado,semi,s
+351,furia-vs-m80-m2-dust2.dem,3,ct,M80,FURIA,M80,armado,eco,s
+352,furia-vs-m80-m2-dust2.dem,10,ct,M80,FURIA,M80,armado,semi,s
+353,furia-vs-m80-m2-dust2.dem,7,t,M80,FURIA,FURIA,armado,semi,n
+354,furia-vs-m80-m2-dust2.dem,15,t,FURIA,M80,M80,armado,semi,n
+355,furia-vs-m80-m2-dust2.dem,16,t,FURIA,M80,M80,semi,armado,s
+356,furia-vs-m80-m2-dust2.dem,17,t,FURIA,M80,M80,semi,armado,s
+357,furia-vs-m80-m3-anubis.dem,7,ct,FURIA,M80,FURIA,semi,armado,n
+358,furia-vs-m80-m3-anubis.dem,2,ct,FURIA,M80,FURIA,armado,semi,s
+359,furia-vs-m80-m3-anubis.dem,3,ct,FURIA,M80,FURIA,armado,eco,s
+360,furia-vs-m80-m3-anubis.dem,9,ct,FURIA,M80,FURIA,armado,semi,s
+361,furia-vs-m80-m3-anubis.dem,5,t,FURIA,M80,M80,armado,semi,n
+362,furia-vs-m80-m3-anubis.dem,14,t,M80,FURIA,FURIA,armado,semi,n
+363,furia-vs-m80-m3-anubis.dem,15,t,M80,FURIA,FURIA,semi,armado,s
+364,furia-vs-m80-m3-anubis.dem,16,t,M80,FURIA,FURIA,semi,armado,s
+365,furia-vs-m80-m3-anubis.dem,18,t,M80,FURIA,FURIA,semi,armado,s
+366,furia-vs-m80-m1-mirage.dem,2,ct,FURIA,M80,FURIA,armado,semi,s
+367,furia-vs-m80-m1-mirage.dem,3,ct,FURIA,M80,FURIA,armado,eco,s
+368,furia-vs-m80-m1-mirage.dem,11,ct,FURIA,M80,FURIA,armado,eco,s
+369,furia-vs-m80-m1-mirage.dem,12,t,FURIA,M80,M80,armado,semi,n
+370,furia-vs-m80-m1-mirage.dem,14,t,M80,FURIA,FURIA,armado,semi,n
+371,furia-vs-m80-m1-mirage.dem,6,t,FURIA,M80,M80,eco,armado,s
+372,furia-vs-m80-m1-mirage.dem,15,t,M80,FURIA,FURIA,semi,armado,s
+373,furia-vs-m80-m1-mirage.dem,16,t,M80,FURIA,FURIA,eco,armado,s
+374,furia-vs-m80-m1-mirage.dem,18,t,M80,FURIA,FURIA,semi,armado,s
+375,furia-vs-mibr-m2-nuke.dem,4,ct,MIBR,FURIA,MIBR,armado,semi,s
+376,furia-vs-mibr-m2-nuke.dem,5,ct,MIBR,FURIA,MIBR,armado,eco,s
+377,furia-vs-mibr-m2-nuke.dem,7,ct,MIBR,FURIA,MIBR,armado,semi,s
+378,furia-vs-mibr-m2-nuke.dem,17,ct,FURIA,MIBR,FURIA,armado,eco,s
+379,furia-vs-mibr-m2-nuke.dem,18,ct,FURIA,MIBR,FURIA,armado,semi,s
+380,furia-vs-mibr-m2-nuke.dem,19,t,FURIA,MIBR,MIBR,armado,semi,n
+381,furia-vs-mibr-m2-nuke.dem,15,t,FURIA,MIBR,MIBR,semi,armado,s
+382,furia-vs-mibr-m1-anubis.dem,7,ct,MIBR,FURIA,MIBR,semi,armado,n
+383,furia-vs-mibr-m1-anubis.dem,15,ct,FURIA,MIBR,FURIA,armado,semi,s
+384,furia-vs-mibr-m1-anubis.dem,16,t,FURIA,MIBR,MIBR,armado,semi,n
+385,furia-vs-mibr-m1-anubis.dem,4,t,MIBR,FURIA,FURIA,semi,armado,s
+386,furia-vs-mibr-m1-anubis.dem,18,t,FURIA,MIBR,MIBR,eco,armado,s
+387,furia-vs-mibr-m1-anubis.dem,20,t,FURIA,MIBR,MIBR,semi,armado,s
+388,furia-vs-mibr-m1-anubis.dem,22,t,FURIA,MIBR,MIBR,semi,armado,s
+389,furia-vs-nrg-m2-dust2.dem,4,t,NRG,FURIA,FURIA,eco,armado,s
+390,furia-vs-nrg-m2-dust2.dem,10,t,NRG,FURIA,FURIA,semi,armado,s
+391,furia-vs-nrg-m2-dust2.dem,15,t,FURIA,NRG,NRG,semi,armado,s
+392,furia-vs-nrg-m2-dust2.dem,18,t,FURIA,NRG,NRG,semi,armado,s
+393,furia-vs-nrg-m3-mirage.dem,5,ct,NRG,FURIA,NRG,semi,armado,n
+394,furia-vs-nrg-m3-mirage.dem,9,ct,NRG,FURIA,NRG,semi,armado,n
+395,furia-vs-nrg-m3-mirage.dem,24,ct,FURIA,NRG,FURIA,armado,semi,s
+396,furia-vs-nrg-m3-mirage.dem,15,t,FURIA,NRG,NRG,armado,semi,n
+397,furia-vs-nrg-m3-mirage.dem,2,t,NRG,FURIA,FURIA,eco,armado,s
+398,furia-vs-nrg-m3-mirage.dem,7,t,NRG,FURIA,FURIA,eco,armado,s
+399,furia-vs-nrg-m3-mirage.dem,11,t,NRG,FURIA,FURIA,eco,armado,s
+400,furia-vs-nrg-m3-mirage.dem,17,t,FURIA,NRG,NRG,eco,armado,s
+401,furia-vs-nrg-m3-mirage.dem,19,t,FURIA,NRG,NRG,semi,armado,s
+402,furia-vs-nrg-m1-train.dem,7,ct,NRG,FURIA,NRG,semi,armado,n
+403,furia-vs-nrg-m1-train.dem,20,t,FURIA,NRG,NRG,armado,semi,n
+404,furia-vs-nrg-m1-train.dem,9,t,NRG,FURIA,FURIA,semi,armado,s
+405,furia-vs-nrg-m1-train.dem,15,t,FURIA,NRG,NRG,semi,armado,s
+406,furia-vs-nrg-m1-train.dem,17,t,FURIA,NRG,NRG,semi,armado,s
+407,furia-vs-nrg-m1-train.dem,21,t,FURIA,NRG,NRG,semi,armado,s
+408,furia-vs-nrg-m1-train.dem,23,t,FURIA,NRG,NRG,semi,armado,s
+409,furia-vs-saw-m1-anubis.dem,2,ct,SAW,FURIA,SAW,armado,semi,s
+410,furia-vs-saw-m1-anubis.dem,3,ct,SAW,FURIA,SAW,armado,eco,s
+411,furia-vs-saw-m1-anubis.dem,5,ct,SAW,FURIA,SAW,armado,semi,s
+412,furia-vs-saw-m1-anubis.dem,16,ct,FURIA,SAW,FURIA,armado,semi,s
+413,furia-vs-saw-m1-anubis.dem,11,t,SAW,FURIA,FURIA,semi,armado,s
+414,furia-vs-saw-m1-anubis.dem,21,t,FURIA,SAW,SAW,semi,armado,s
+415,furia-vs-saw-m1-anubis.dem,23,t,FURIA,SAW,SAW,semi,armado,s
+416,furia-vs-saw-m2-dust2.dem,3,ct,FURIA,SAW,FURIA,armado,eco,s
+417,furia-vs-saw-m2-dust2.dem,11,ct,FURIA,SAW,FURIA,armado,semi,s
+418,furia-vs-saw-m2-dust2.dem,6,t,FURIA,SAW,SAW,armado,semi,n
+419,furia-vs-saw-m2-dust2.dem,16,t,SAW,FURIA,FURIA,semi,armado,s
+420,furia-vs-saw-m3-inferno.dem,7,ct,SAW,FURIA,SAW,armado,semi,s
+421,furia-vs-saw-m3-inferno.dem,11,ct,SAW,FURIA,SAW,armado,semi,s
+422,furia-vs-saw-m3-inferno.dem,16,t,FURIA,SAW,SAW,armado,semi,n
+423,furia-vs-saw-m3-inferno.dem,3,t,SAW,FURIA,FURIA,eco,armado,s
+424,furia-vs-saw-m3-inferno.dem,20,t,FURIA,SAW,SAW,semi,armado,s
+425,heroic-vs-3dmax-m1-nuke.dem,15,ct,HEROIC,3DMAX,HEROIC,semi,armado,n
+426,heroic-vs-3dmax-m1-nuke.dem,2,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+427,heroic-vs-3dmax-m1-nuke.dem,3,ct,3DMAX,HEROIC,3DMAX,armado,eco,s
+428,heroic-vs-3dmax-m1-nuke.dem,5,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+429,heroic-vs-3dmax-m1-nuke.dem,8,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+430,heroic-vs-3dmax-m1-nuke.dem,16,ct,HEROIC,3DMAX,HEROIC,armado,semi,s
+431,heroic-vs-3dmax-m1-nuke.dem,17,ct,HEROIC,3DMAX,HEROIC,armado,eco,s
+432,heroic-vs-3dmax-m1-nuke.dem,10,t,3DMAX,HEROIC,HEROIC,armado,semi,n
+433,heroic-vs-3dmax-m2-train.dem,5,ct,HEROIC,3DMAX,HEROIC,armado,semi,s
+434,heroic-vs-3dmax-m2-train.dem,14,ct,3DMAX,HEROIC,3DMAX,armado,eco,s
+435,heroic-vs-3dmax-m2-train.dem,21,ct,3DMAX,HEROIC,3DMAX,armado,eco,s
+436,heroic-vs-3dmax-m2-train.dem,8,t,HEROIC,3DMAX,3DMAX,armado,semi,n
+437,heroic-vs-3dmax-m2-train.dem,2,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+438,heroic-vs-3dmax-m2-train.dem,3,t,HEROIC,3DMAX,3DMAX,eco,armado,s
+439,heroic-vs-3dmax-m2-train.dem,9,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+440,heroic-vs-3dmax-m2-train.dem,10,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+441,heroic-vs-3dmax-m2-train.dem,16,t,3DMAX,HEROIC,HEROIC,semi,armado,s
+442,heroic-vs-3dmax-m2-train.dem,18,t,3DMAX,HEROIC,HEROIC,eco,armado,s
+443,heroic-vs-3dmax-m2-train.dem,23,t,3DMAX,HEROIC,HEROIC,semi,armado,s
+444,heroic-vs-nemiga-m1-dust2.dem,12,ct,HEROIC,Nemiga Gaming,HEROIC,semi,armado,n
+445,heroic-vs-nemiga-m1-dust2.dem,14,t,Nemiga Gaming,HEROIC,HEROIC,armado,semi,n
+446,heroic-vs-nemiga-m1-dust2.dem,2,t,HEROIC,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+447,heroic-vs-nemiga-m1-dust2.dem,3,t,HEROIC,Nemiga Gaming,Nemiga Gaming,eco,armado,s
+448,heroic-vs-nemiga-m1-dust2.dem,9,t,HEROIC,Nemiga Gaming,Nemiga Gaming,eco,armado,s
+449,heroic-vs-nemiga-m1-dust2.dem,15,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+450,heroic-vs-nemiga-m1-dust2.dem,16,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+451,heroic-vs-nemiga-m1-dust2.dem,21,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+452,heroic-vs-nemiga-m1-dust2.dem,24,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+453,heroic-vs-nemiga-m2-mirage.dem,12,ct,Nemiga Gaming,HEROIC,Nemiga Gaming,armado,semi,s
+454,heroic-vs-nemiga-m2-mirage.dem,15,ct,HEROIC,Nemiga Gaming,HEROIC,armado,semi,s
+455,heroic-vs-nemiga-m2-mirage.dem,16,ct,HEROIC,Nemiga Gaming,HEROIC,armado,eco,s
+456,heroic-vs-nemiga-m2-mirage.dem,19,ct,HEROIC,Nemiga Gaming,HEROIC,armado,semi,s
+457,heroic-vs-nemiga-m2-mirage.dem,4,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+458,heroic-vs-nemiga-m2-mirage.dem,7,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+459,heroic-vs-nemiga-m2-mirage.dem,9,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+460,heroic-vs-nemiga-m3-train.dem,2,ct,HEROIC,Nemiga Gaming,HEROIC,armado,eco,s
+461,heroic-vs-nemiga-m3-train.dem,14,ct,Nemiga Gaming,HEROIC,Nemiga Gaming,armado,eco,s
+462,heroic-vs-nemiga-m3-train.dem,12,t,HEROIC,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+463,heroic-vs-nemiga-m3-train.dem,16,t,Nemiga Gaming,HEROIC,HEROIC,armado,semi,n
+464,heroic-vs-nemiga-m3-train.dem,4,t,HEROIC,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+465,heroic-vs-nemiga-m3-train.dem,5,t,HEROIC,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+466,heroic-vs-nemiga-m3-train.dem,6,t,HEROIC,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+467,heroic-vs-nemiga-m3-train.dem,19,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+468,heroic-vs-nemiga-m3-train.dem,20,t,Nemiga Gaming,HEROIC,HEROIC,eco,armado,s
+469,heroic-vs-nemiga-m3-train.dem,22,t,Nemiga Gaming,HEROIC,HEROIC,semi,armado,s
+470,heroic-vs-saw-m1-dust2.dem,2,ct,HEROIC,SAW,HEROIC,armado,eco,s
+471,heroic-vs-saw-m1-dust2.dem,4,ct,HEROIC,SAW,HEROIC,armado,semi,s
+472,heroic-vs-saw-m1-dust2.dem,6,ct,HEROIC,SAW,HEROIC,armado,semi,s
+473,heroic-vs-saw-m1-dust2.dem,7,ct,HEROIC,SAW,HEROIC,armado,semi,s
+474,heroic-vs-saw-m1-dust2.dem,20,ct,SAW,HEROIC,SAW,armado,eco,s
+475,heroic-vs-saw-m1-dust2.dem,8,t,HEROIC,SAW,SAW,armado,semi,n
+476,heroic-vs-saw-m1-dust2.dem,15,t,SAW,HEROIC,HEROIC,armado,semi,n
+477,heroic-vs-saw-m1-dust2.dem,9,t,HEROIC,SAW,SAW,semi,armado,s
+478,heroic-vs-saw-m1-dust2.dem,10,t,HEROIC,SAW,SAW,eco,armado,s
+479,heroic-vs-saw-m1-dust2.dem,16,t,SAW,HEROIC,HEROIC,semi,armado,s
+480,heroic-vs-saw-m1-dust2.dem,17,t,SAW,HEROIC,HEROIC,eco,armado,s
+481,heroic-vs-saw-m2-train.dem,5,ct,SAW,HEROIC,SAW,semi,armado,n
+482,heroic-vs-saw-m2-train.dem,7,ct,SAW,HEROIC,SAW,armado,eco,s
+483,heroic-vs-saw-m2-train.dem,9,ct,SAW,HEROIC,SAW,armado,semi,s
+484,heroic-vs-saw-m2-train.dem,2,t,SAW,HEROIC,HEROIC,semi,armado,s
+485,heroic-vs-saw-m2-train.dem,3,t,SAW,HEROIC,HEROIC,eco,armado,s
+486,heroic-vs-saw-m2-train.dem,14,t,HEROIC,SAW,SAW,semi,armado,s
+487,heroic-vs-saw-m2-train.dem,15,t,HEROIC,SAW,SAW,eco,armado,s
+488,heroic-vs-saw-m2-train.dem,17,t,HEROIC,SAW,SAW,semi,armado,s
+489,heroic-vs-saw-m2-train.dem,19,t,HEROIC,SAW,SAW,semi,armado,s
+490,heroic-vs-saw-m3-ancient.dem,6,ct,SAW,HEROIC,SAW,armado,semi,s
+491,heroic-vs-saw-m3-ancient.dem,12,ct,SAW,HEROIC,SAW,armado,semi,s
+492,heroic-vs-saw-m3-ancient.dem,14,ct,HEROIC,SAW,HEROIC,armado,eco,s
+493,heroic-vs-saw-m3-ancient.dem,7,t,SAW,HEROIC,HEROIC,armado,semi,n
+494,heroic-vs-saw-m3-ancient.dem,19,t,HEROIC,SAW,SAW,armado,semi,n
+495,heroic-vs-saw-m3-ancient.dem,2,t,SAW,HEROIC,HEROIC,semi,armado,s
+496,heroic-vs-saw-m3-ancient.dem,3,t,SAW,HEROIC,HEROIC,eco,armado,s
+497,heroic-vs-saw-m3-ancient.dem,8,t,SAW,HEROIC,HEROIC,semi,armado,s
+498,heroic-vs-saw-m3-ancient.dem,9,t,SAW,HEROIC,HEROIC,semi,armado,s
+499,heroic-vs-saw-m3-ancient.dem,20,t,HEROIC,SAW,SAW,semi,armado,s
+500,heroic-vs-saw-m3-ancient.dem,21,t,HEROIC,SAW,SAW,eco,armado,s
+501,heroic-vs-saw-m3-ancient.dem,23,t,HEROIC,SAW,SAW,semi,armado,s
+502,big-vs-heroic-m1-mirage.dem,2,ct,BIG,HEROIC,BIG,semi,armado,n
+503,big-vs-heroic-m1-mirage.dem,3,ct,BIG,HEROIC,BIG,armado,semi,s
+504,big-vs-heroic-m1-mirage.dem,4,ct,BIG,HEROIC,BIG,armado,semi,s
+505,big-vs-heroic-m1-mirage.dem,7,ct,BIG,HEROIC,BIG,armado,semi,s
+506,big-vs-heroic-m1-mirage.dem,17,ct,HEROIC,BIG,HEROIC,armado,semi,s
+507,big-vs-heroic-m1-mirage.dem,20,ct,HEROIC,BIG,HEROIC,armado,semi,s
+508,big-vs-heroic-m1-mirage.dem,9,t,BIG,HEROIC,HEROIC,eco,armado,s
+509,big-vs-heroic-m2-ancient.dem,4,ct,HEROIC,BIG,HEROIC,semi,armado,n
+510,big-vs-heroic-m2-ancient.dem,3,t,HEROIC,BIG,BIG,armado,semi,n
+511,big-vs-heroic-m2-ancient.dem,5,t,HEROIC,BIG,BIG,armado,semi,n
+512,big-vs-heroic-m2-ancient.dem,6,t,HEROIC,BIG,BIG,semi,armado,s
+513,big-vs-heroic-m2-ancient.dem,7,t,HEROIC,BIG,BIG,eco,armado,s
+514,big-vs-heroic-m2-ancient.dem,10,t,HEROIC,BIG,BIG,eco,armado,s
+515,big-vs-heroic-m2-ancient.dem,17,t,BIG,HEROIC,HEROIC,eco,armado,s
+516,big-vs-heroic-m2-ancient.dem,20,t,BIG,HEROIC,HEROIC,semi,armado,s
+517,big-vs-heroic-m3-nuke.dem,8,ct,HEROIC,BIG,HEROIC,armado,eco,s
+518,big-vs-heroic-m3-nuke.dem,10,ct,HEROIC,BIG,HEROIC,armado,eco,s
+519,big-vs-heroic-m3-nuke.dem,6,t,HEROIC,BIG,BIG,armado,semi,n
+520,big-vs-heroic-m3-nuke.dem,15,t,BIG,HEROIC,HEROIC,armado,semi,n
+521,big-vs-heroic-m3-nuke.dem,3,t,HEROIC,BIG,BIG,semi,armado,s
+522,big-vs-heroic-m3-nuke.dem,16,t,BIG,HEROIC,HEROIC,semi,armado,s
+523,big-vs-heroic-m3-nuke.dem,17,t,BIG,HEROIC,HEROIC,semi,armado,s
+524,big-vs-heroic-m3-nuke.dem,20,t,BIG,HEROIC,HEROIC,semi,armado,s
+525,heroic-vs-3dmax-m2-dust2.dem,5,ct,HEROIC,3DMAX,HEROIC,armado,eco,s
+526,heroic-vs-3dmax-m2-dust2.dem,15,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+527,heroic-vs-3dmax-m2-dust2.dem,16,ct,3DMAX,HEROIC,3DMAX,armado,eco,s
+528,heroic-vs-3dmax-m2-dust2.dem,18,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+529,heroic-vs-3dmax-m2-dust2.dem,3,t,HEROIC,3DMAX,3DMAX,armado,semi,n
+530,heroic-vs-3dmax-m2-dust2.dem,8,t,HEROIC,3DMAX,3DMAX,eco,armado,s
+531,heroic-vs-3dmax-m2-dust2.dem,12,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+532,heroic-vs-3dmax-m3-ancient-p2.dem,9,ct,3DMAX,HEROIC,3DMAX,semi,armado,n
+533,heroic-vs-3dmax-m3-ancient-p2.dem,15,ct,HEROIC,3DMAX,HEROIC,semi,armado,n
+534,heroic-vs-3dmax-m3-ancient-p2.dem,2,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+535,heroic-vs-3dmax-m3-ancient-p2.dem,3,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+536,heroic-vs-3dmax-m3-ancient-p2.dem,11,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+537,heroic-vs-3dmax-m3-ancient-p2.dem,6,t,3DMAX,HEROIC,HEROIC,semi,armado,s
+538,heroic-vs-3dmax-m3-ancient-p2.dem,7,t,3DMAX,HEROIC,HEROIC,eco,armado,s
+539,heroic-vs-3dmax-m3-ancient-p2.dem,14,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+540,heroic-vs-3dmax-m1-anubis.dem,7,ct,HEROIC,3DMAX,HEROIC,semi,armado,n
+541,heroic-vs-3dmax-m1-anubis.dem,2,ct,HEROIC,3DMAX,HEROIC,armado,eco,s
+542,heroic-vs-3dmax-m1-anubis.dem,14,ct,3DMAX,HEROIC,3DMAX,armado,semi,s
+543,heroic-vs-3dmax-m1-anubis.dem,15,ct,3DMAX,HEROIC,3DMAX,armado,eco,s
+544,heroic-vs-3dmax-m1-anubis.dem,11,t,HEROIC,3DMAX,3DMAX,armado,semi,n
+545,heroic-vs-3dmax-m1-anubis.dem,19,t,3DMAX,HEROIC,HEROIC,armado,semi,n
+546,heroic-vs-3dmax-m1-anubis.dem,5,t,HEROIC,3DMAX,3DMAX,eco,armado,s
+547,heroic-vs-3dmax-m1-anubis.dem,9,t,HEROIC,3DMAX,3DMAX,semi,armado,s
+548,heroic-vs-3dmax-m1-anubis.dem,21,t,3DMAX,HEROIC,HEROIC,eco,armado,s
+549,heroic-vs-3dmax-m1-anubis.dem,23,t,3DMAX,HEROIC,HEROIC,semi,armado,s
+550,heroic-vs-astralis-m1-mirage.dem,14,ct,HEROIC,Astralis,HEROIC,armado,semi,s
+551,heroic-vs-astralis-m1-mirage.dem,15,ct,HEROIC,Astralis,HEROIC,armado,eco,s
+552,heroic-vs-astralis-m1-mirage.dem,3,t,Astralis,HEROIC,HEROIC,armado,semi,n
+553,heroic-vs-astralis-m1-mirage.dem,7,t,Astralis,HEROIC,HEROIC,armado,semi,n
+554,heroic-vs-astralis-m1-mirage.dem,9,t,Astralis,HEROIC,HEROIC,armado,semi,n
+555,heroic-vs-astralis-m1-mirage.dem,4,t,Astralis,HEROIC,HEROIC,semi,armado,s
+556,heroic-vs-astralis-m1-mirage.dem,5,t,Astralis,HEROIC,HEROIC,semi,armado,s
+557,heroic-vs-astralis-m1-mirage.dem,10,t,Astralis,HEROIC,HEROIC,semi,armado,s
+558,heroic-vs-astralis-m1-mirage.dem,11,t,Astralis,HEROIC,HEROIC,semi,armado,s
+559,heroic-vs-astralis-m2-nuke.dem,2,ct,HEROIC,Astralis,HEROIC,armado,semi,s
+560,heroic-vs-astralis-m2-nuke.dem,3,ct,HEROIC,Astralis,HEROIC,armado,eco,s
+561,heroic-vs-astralis-m2-nuke.dem,5,ct,HEROIC,Astralis,HEROIC,armado,semi,s
+562,heroic-vs-astralis-m2-nuke.dem,8,ct,HEROIC,Astralis,HEROIC,armado,semi,s
+563,heroic-vs-astralis-m2-nuke.dem,11,ct,HEROIC,Astralis,HEROIC,armado,semi,s
+564,heroic-vs-astralis-m2-nuke.dem,15,t,Astralis,HEROIC,HEROIC,semi,armado,s
+565,heroic-vs-og-m1-dust2.dem,9,ct,,,,semi,armado,n
+566,heroic-vs-og-m1-dust2.dem,2,ct,,,,armado,eco,s
+567,heroic-vs-og-m1-dust2.dem,6,ct,,,,armado,semi,s
+568,heroic-vs-og-m1-dust2.dem,16,ct,,,,armado,semi,s
+569,heroic-vs-og-m1-dust2.dem,18,ct,,,,armado,semi,s
+570,heroic-vs-og-m1-dust2.dem,12,t,,,,semi,armado,s
+571,heroic-vs-og-m2-ancient.dem,3,ct,,,,eco,armado,n
+572,heroic-vs-og-m2-ancient.dem,4,ct,,,,armado,semi,s
+573,heroic-vs-og-m2-ancient.dem,5,ct,,,,armado,eco,s
+574,heroic-vs-og-m2-ancient.dem,14,ct,,,,armado,semi,s
+575,heroic-vs-og-m2-ancient.dem,15,ct,,,,armado,semi,s
+576,heroic-vs-og-m2-ancient.dem,18,ct,,,,armado,semi,s
+577,heroic-vs-og-m2-ancient.dem,10,t,,,,semi,armado,s
+578,heroic-vs-og-m3-nuke.dem,6,ct,,,,armado,semi,s
+579,heroic-vs-og-m3-nuke.dem,7,ct,,,,armado,eco,s
+580,heroic-vs-og-m3-nuke.dem,9,ct,,,,armado,semi,s
+581,heroic-vs-og-m3-nuke.dem,12,ct,,,,armado,semi,s
+582,heroic-vs-og-m3-nuke.dem,18,ct,,,,armado,semi,s
+583,heroic-vs-og-m3-nuke.dem,4,t,,,,armado,semi,n
+584,heroic-vs-og-m3-nuke.dem,2,t,,,,eco,armado,s
+585,heroic-vs-og-m3-nuke.dem,15,t,,,,eco,armado,s
+586,heroic-vs-og-m3-nuke.dem,20,t,,,,semi,armado,s
+587,eternal-fire-vs-mibr-m1-mirage.dem,4,ct,Eternal Fire,MIBR,Eternal Fire,semi,armado,n
+588,eternal-fire-vs-mibr-m1-mirage.dem,6,ct,Eternal Fire,MIBR,Eternal Fire,armado,eco,s
+589,eternal-fire-vs-mibr-m1-mirage.dem,10,ct,Eternal Fire,MIBR,Eternal Fire,armado,semi,s
+590,eternal-fire-vs-mibr-m1-mirage.dem,14,t,MIBR,Eternal Fire,Eternal Fire,eco,armado,s
+591,eternal-fire-vs-mibr-m2-inferno.dem,15,t,Eternal Fire,MIBR,MIBR,armado,semi,n
+592,eternal-fire-vs-mibr-m2-inferno.dem,3,t,MIBR,Eternal Fire,Eternal Fire,eco,armado,s
+593,eternal-fire-vs-mibr-m2-inferno.dem,7,t,MIBR,Eternal Fire,Eternal Fire,semi,armado,s
+594,eternal-fire-vs-mibr-m2-inferno.dem,9,t,MIBR,Eternal Fire,Eternal Fire,semi,armado,s
+595,eternal-fire-vs-mibr-m2-inferno.dem,12,t,MIBR,Eternal Fire,Eternal Fire,semi,armado,s
+596,eternal-fire-vs-mibr-m2-inferno.dem,17,t,Eternal Fire,MIBR,MIBR,eco,armado,s
+597,eternal-fire-vs-mibr-m2-inferno.dem,18,t,Eternal Fire,MIBR,MIBR,semi,armado,s
+598,eternal-fire-vs-mibr-m2-inferno.dem,20,t,Eternal Fire,MIBR,MIBR,semi,armado,s
+599,gamerlegion-vs-mibr-m2-inferno.dem,3,ct,MIBR,GamerLegion,MIBR,semi,armado,n
+600,gamerlegion-vs-mibr-m2-inferno.dem,4,ct,MIBR,GamerLegion,MIBR,armado,semi,s
+601,gamerlegion-vs-mibr-m2-inferno.dem,5,ct,MIBR,GamerLegion,MIBR,armado,semi,s
+602,gamerlegion-vs-mibr-m2-inferno.dem,11,ct,MIBR,GamerLegion,MIBR,armado,semi,s
+603,gamerlegion-vs-mibr-m2-inferno.dem,21,ct,GamerLegion,MIBR,GamerLegion,armado,semi,s
+604,gamerlegion-vs-mibr-m2-inferno.dem,23,ct,GamerLegion,MIBR,GamerLegion,armado,semi,s
+605,gamerlegion-vs-mibr-m2-inferno.dem,2,t,MIBR,GamerLegion,GamerLegion,armado,semi,n
+606,gamerlegion-vs-mibr-m2-inferno.dem,6,t,MIBR,GamerLegion,GamerLegion,armado,semi,n
+607,gamerlegion-vs-mibr-m2-inferno.dem,12,t,MIBR,GamerLegion,GamerLegion,armado,semi,n
+608,gamerlegion-vs-mibr-m1-ancient.dem,4,ct,GamerLegion,MIBR,GamerLegion,armado,semi,s
+609,gamerlegion-vs-mibr-m1-ancient.dem,10,t,GamerLegion,MIBR,MIBR,eco,armado,s
+610,gamerlegion-vs-mibr-m1-ancient.dem,15,t,MIBR,GamerLegion,GamerLegion,eco,armado,s
+611,mibr-vs-nemiga-m1-anubis.dem,18,ct,MIBR,Nemiga Gaming,MIBR,armado,semi,s
+612,mibr-vs-nemiga-m1-anubis.dem,19,ct,MIBR,Nemiga Gaming,MIBR,armado,semi,s
+613,mibr-vs-nemiga-m1-anubis.dem,20,ct,MIBR,Nemiga Gaming,MIBR,armado,semi,s
+614,mibr-vs-nemiga-m1-anubis.dem,2,t,Nemiga Gaming,MIBR,MIBR,armado,semi,n
+615,mibr-vs-nemiga-m1-anubis.dem,14,t,MIBR,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+616,mibr-vs-nemiga-m1-anubis.dem,3,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+617,mibr-vs-nemiga-m1-anubis.dem,4,t,Nemiga Gaming,MIBR,MIBR,eco,armado,s
+618,mibr-vs-nemiga-m1-anubis.dem,7,t,Nemiga Gaming,MIBR,MIBR,eco,armado,s
+619,mibr-vs-nemiga-m1-anubis.dem,10,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+620,mibr-vs-nemiga-m1-anubis.dem,15,t,MIBR,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+621,mibr-vs-nemiga-m1-anubis.dem,16,t,MIBR,Nemiga Gaming,Nemiga Gaming,eco,armado,s
+622,mibr-vs-nemiga-m2-inferno-p1.dem,11,ct,MIBR,Nemiga Gaming,MIBR,armado,eco,s
+623,mibr-vs-nemiga-m2-inferno-p1.dem,3,t,MIBR,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+624,mibr-vs-nemiga-m3-mirage.dem,16,ct,MIBR,Nemiga Gaming,MIBR,semi,armado,n
+625,mibr-vs-nemiga-m3-mirage.dem,18,ct,MIBR,Nemiga Gaming,MIBR,armado,eco,s
+626,mibr-vs-nemiga-m3-mirage.dem,4,t,Nemiga Gaming,MIBR,MIBR,armado,semi,n
+627,mibr-vs-nemiga-m3-mirage.dem,5,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+628,mibr-vs-nemiga-m3-mirage.dem,6,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+629,mibr-vs-nemiga-m3-mirage.dem,8,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+630,mibr-vs-nemiga-m3-mirage.dem,10,t,Nemiga Gaming,MIBR,MIBR,semi,armado,s
+631,mibr-vs-nemiga-m3-mirage.dem,14,t,MIBR,Nemiga Gaming,Nemiga Gaming,eco,armado,s
+632,mibr-vs-tyloo-m1-inferno.dem,19,ct,TYLOO,MIBR,TYLOO,semi,armado,n
+633,mibr-vs-tyloo-m1-inferno.dem,6,ct,MIBR,TYLOO,MIBR,armado,semi,s
+634,mibr-vs-tyloo-m1-inferno.dem,12,ct,MIBR,TYLOO,MIBR,armado,semi,s
+635,mibr-vs-tyloo-m1-inferno.dem,14,ct,TYLOO,MIBR,TYLOO,armado,eco,s
+636,mibr-vs-tyloo-m1-inferno.dem,3,t,MIBR,TYLOO,TYLOO,eco,armado,s
+637,mibr-vs-tyloo-m1-inferno.dem,8,t,MIBR,TYLOO,TYLOO,semi,armado,s
+638,mibr-vs-tyloo-m1-inferno.dem,9,t,MIBR,TYLOO,TYLOO,semi,armado,s
+639,mibr-vs-tyloo-m1-inferno.dem,17,t,TYLOO,MIBR,MIBR,semi,armado,s
+640,mibr-vs-tyloo-m1-inferno.dem,21,t,TYLOO,MIBR,MIBR,semi,armado,s
+641,mibr-vs-tyloo-m2-anubis.dem,10,ct,MIBR,TYLOO,MIBR,semi,armado,n
+642,mibr-vs-tyloo-m2-anubis.dem,2,ct,MIBR,TYLOO,MIBR,armado,eco,s
+643,mibr-vs-tyloo-m2-anubis.dem,11,ct,MIBR,TYLOO,MIBR,armado,semi,s
+644,mibr-vs-tyloo-m2-anubis.dem,9,t,MIBR,TYLOO,TYLOO,armado,semi,n
+645,mibr-vs-tyloo-m2-anubis.dem,12,t,MIBR,TYLOO,TYLOO,armado,semi,n
+646,mibr-vs-tyloo-m2-anubis.dem,14,t,TYLOO,MIBR,MIBR,armado,semi,n
+647,mibr-vs-tyloo-m2-anubis.dem,6,t,MIBR,TYLOO,TYLOO,semi,armado,s
+648,mibr-vs-tyloo-m2-anubis.dem,7,t,MIBR,TYLOO,TYLOO,semi,armado,s
+649,mibr-vs-tyloo-m2-anubis.dem,15,t,TYLOO,MIBR,MIBR,semi,armado,s
+650,mibr-vs-tyloo-m2-anubis.dem,16,t,TYLOO,MIBR,MIBR,eco,armado,s
+651,mibr-vs-tyloo-m2-anubis.dem,18,t,TYLOO,MIBR,MIBR,semi,armado,s
+652,vitality-vs-mibr-m1-anubis.dem,11,ct,MIBR,Team Vitality,MIBR,armado,semi,s
+653,vitality-vs-mibr-m1-anubis.dem,2,t,MIBR,Team Vitality,Team Vitality,armado,semi,n
+654,vitality-vs-mibr-m1-anubis.dem,14,t,Team Vitality,MIBR,MIBR,armado,semi,n
+655,vitality-vs-mibr-m1-anubis.dem,3,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+656,vitality-vs-mibr-m1-anubis.dem,4,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+657,vitality-vs-mibr-m1-anubis.dem,7,t,MIBR,Team Vitality,Team Vitality,eco,armado,s
+658,vitality-vs-mibr-m1-anubis.dem,15,t,Team Vitality,MIBR,MIBR,semi,armado,s
+659,vitality-vs-mibr-m1-anubis.dem,16,t,Team Vitality,MIBR,MIBR,eco,armado,s
+660,vitality-vs-mibr-m1-anubis.dem,18,t,Team Vitality,MIBR,MIBR,semi,armado,s
+661,vitality-vs-mibr-m1-anubis.dem,20,t,Team Vitality,MIBR,MIBR,semi,armado,s
+662,vitality-vs-mibr-m2-inferno.dem,2,ct,MIBR,Team Vitality,MIBR,armado,semi,s
+663,vitality-vs-mibr-m2-inferno.dem,3,ct,MIBR,Team Vitality,MIBR,armado,eco,s
+664,vitality-vs-mibr-m2-inferno.dem,16,ct,Team Vitality,MIBR,Team Vitality,armado,semi,s
+665,vitality-vs-mibr-m2-inferno.dem,5,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+666,vitality-vs-mibr-m2-inferno.dem,6,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+667,vitality-vs-mibr-m2-inferno.dem,8,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+668,vitality-vs-mibr-m2-inferno.dem,10,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+669,vitality-vs-mibr-m3-train.dem,12,ct,Team Vitality,MIBR,Team Vitality,semi,armado,n
+670,vitality-vs-mibr-m3-train.dem,5,ct,Team Vitality,MIBR,Team Vitality,armado,semi,s
+671,vitality-vs-mibr-m3-train.dem,6,ct,Team Vitality,MIBR,Team Vitality,armado,eco,s
+672,vitality-vs-mibr-m3-train.dem,9,ct,Team Vitality,MIBR,Team Vitality,armado,semi,s
+673,vitality-vs-mibr-m3-train.dem,15,t,MIBR,Team Vitality,Team Vitality,armado,semi,n
+674,vitality-vs-mibr-m3-train.dem,2,t,Team Vitality,MIBR,MIBR,semi,armado,s
+675,vitality-vs-mibr-m3-train.dem,3,t,Team Vitality,MIBR,MIBR,eco,armado,s
+676,vitality-vs-mibr-m3-train.dem,11,t,Team Vitality,MIBR,MIBR,semi,armado,s
+677,vitality-vs-mibr-m3-train.dem,16,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+678,vitality-vs-mibr-m3-train.dem,17,t,MIBR,Team Vitality,Team Vitality,eco,armado,s
+679,vitality-vs-mibr-m3-train.dem,19,t,MIBR,Team Vitality,Team Vitality,semi,armado,s
+680,astralis-vs-mibr-m1-mirage.dem,15,ct,MIBR,Astralis,MIBR,semi,armado,n
+681,astralis-vs-mibr-m1-mirage.dem,7,ct,Astralis,MIBR,Astralis,armado,eco,s
+682,astralis-vs-mibr-m1-mirage.dem,9,ct,Astralis,MIBR,Astralis,armado,eco,s
+683,astralis-vs-mibr-m1-mirage.dem,11,ct,Astralis,MIBR,Astralis,armado,semi,s
+684,astralis-vs-mibr-m1-mirage.dem,12,ct,Astralis,MIBR,Astralis,armado,semi,s
+685,astralis-vs-mibr-m1-mirage.dem,16,ct,MIBR,Astralis,MIBR,armado,eco,s
+686,astralis-vs-mibr-m1-mirage.dem,18,ct,MIBR,Astralis,MIBR,armado,semi,s
+687,astralis-vs-mibr-m1-mirage.dem,19,ct,MIBR,Astralis,MIBR,armado,semi,s
+688,astralis-vs-mibr-m1-mirage.dem,45,ct,Astralis,MIBR,Astralis,armado,semi,s
+689,astralis-vs-mibr-m1-mirage.dem,2,t,Astralis,MIBR,MIBR,armado,semi,n
+690,astralis-vs-mibr-m1-mirage.dem,14,t,MIBR,Astralis,Astralis,armado,semi,n
+691,astralis-vs-mibr-m1-mirage.dem,3,t,Astralis,MIBR,MIBR,semi,armado,s
+692,astralis-vs-mibr-m1-mirage.dem,4,t,Astralis,MIBR,MIBR,eco,armado,s
+693,astralis-vs-mibr-m2-inferno.dem,2,ct,MIBR,Astralis,MIBR,armado,semi,s
+694,astralis-vs-mibr-m2-inferno.dem,3,ct,MIBR,Astralis,MIBR,armado,eco,s
+695,astralis-vs-mibr-m2-inferno.dem,6,ct,MIBR,Astralis,MIBR,armado,semi,s
+696,astralis-vs-mibr-m2-inferno.dem,17,ct,Astralis,MIBR,Astralis,armado,semi,s
+697,astralis-vs-mibr-m2-inferno.dem,20,ct,Astralis,MIBR,Astralis,armado,semi,s
+698,astralis-vs-mibr-m2-inferno.dem,24,t,Astralis,MIBR,MIBR,armado,semi,n
+699,astralis-vs-mibr-m2-inferno.dem,10,t,MIBR,Astralis,Astralis,semi,armado,s
+700,astralis-vs-mibr-m2-inferno.dem,27,t,Astralis,MIBR,MIBR,semi,armado,s
+701,astralis-vs-mibr-m3-nuke.dem,7,ct,Astralis,MIBR,Astralis,semi,armado,n
+702,astralis-vs-mibr-m3-nuke.dem,11,ct,Astralis,MIBR,Astralis,semi,armado,n
+703,astralis-vs-mibr-m3-nuke.dem,9,ct,Astralis,MIBR,Astralis,armado,semi,s
+704,astralis-vs-mibr-m3-nuke.dem,6,t,Astralis,MIBR,MIBR,armado,semi,n
+705,astralis-vs-mibr-m3-nuke.dem,12,t,Astralis,MIBR,MIBR,armado,semi,n
+706,astralis-vs-mibr-m3-nuke.dem,15,t,MIBR,Astralis,Astralis,semi,armado,s
+707,g2-vs-natus-vincere-m1-mirage.dem,16,ct,Natus Vincere,G2 Esports,Natus Vincere,armado,semi,s
+708,g2-vs-natus-vincere-m1-mirage.dem,17,t,Natus Vincere,G2 Esports,G2 Esports,armado,semi,n
+709,g2-vs-natus-vincere-m1-mirage.dem,4,t,G2 Esports,Natus Vincere,Natus Vincere,semi,armado,s
+710,g2-vs-natus-vincere-m1-mirage.dem,6,t,G2 Esports,Natus Vincere,Natus Vincere,semi,armado,s
+711,g2-vs-natus-vincere-m1-mirage.dem,19,t,Natus Vincere,G2 Esports,G2 Esports,eco,armado,s
+712,g2-vs-natus-vincere-m1-mirage.dem,21,t,Natus Vincere,G2 Esports,G2 Esports,semi,armado,s
+713,g2-vs-natus-vincere-m2-ancient.dem,4,ct,Natus Vincere,G2 Esports,Natus Vincere,semi,armado,n
+714,g2-vs-natus-vincere-m2-ancient.dem,5,ct,Natus Vincere,G2 Esports,Natus Vincere,armado,semi,s
+715,g2-vs-natus-vincere-m2-ancient.dem,6,ct,Natus Vincere,G2 Esports,Natus Vincere,armado,eco,s
+716,g2-vs-natus-vincere-m2-ancient.dem,8,ct,Natus Vincere,G2 Esports,Natus Vincere,armado,semi,s
+717,g2-vs-natus-vincere-m2-ancient.dem,10,ct,Natus Vincere,G2 Esports,Natus Vincere,armado,semi,s
+718,g2-vs-natus-vincere-m2-ancient.dem,16,t,G2 Esports,Natus Vincere,Natus Vincere,semi,armado,s
+719,natus-vincere-vs-saw-m3-ancient.dem,7,ct,SAW,Natus Vincere,SAW,semi,armado,n
+720,natus-vincere-vs-saw-m3-ancient.dem,8,ct,SAW,Natus Vincere,SAW,armado,semi,s
+721,natus-vincere-vs-saw-m3-ancient.dem,9,ct,SAW,Natus Vincere,SAW,armado,eco,s
+722,natus-vincere-vs-saw-m3-ancient.dem,11,ct,SAW,Natus Vincere,SAW,armado,semi,s
+723,natus-vincere-vs-saw-m3-ancient.dem,2,t,SAW,Natus Vincere,Natus Vincere,armado,semi,n
+724,natus-vincere-vs-saw-m3-ancient.dem,4,t,SAW,Natus Vincere,Natus Vincere,eco,armado,s
+725,natus-vincere-vs-saw-m3-ancient.dem,14,t,Natus Vincere,SAW,SAW,semi,armado,s
+726,natus-vincere-vs-saw-m3-ancient.dem,15,t,Natus Vincere,SAW,SAW,semi,armado,s
+727,natus-vincere-vs-saw-m3-ancient.dem,17,t,Natus Vincere,SAW,SAW,semi,armado,s
+728,natus-vincere-vs-saw-m1-inferno.dem,2,ct,Natus Vincere,SAW,Natus Vincere,armado,semi,s
+729,natus-vincere-vs-saw-m1-inferno.dem,3,ct,Natus Vincere,SAW,Natus Vincere,armado,eco,s
+730,natus-vincere-vs-saw-m1-inferno.dem,7,ct,Natus Vincere,SAW,Natus Vincere,armado,semi,s
+731,natus-vincere-vs-saw-m1-inferno.dem,9,ct,Natus Vincere,SAW,Natus Vincere,armado,semi,s
+732,natus-vincere-vs-saw-m1-inferno.dem,15,t,SAW,Natus Vincere,Natus Vincere,armado,semi,n
+733,natus-vincere-vs-saw-m1-inferno.dem,16,t,SAW,Natus Vincere,Natus Vincere,semi,armado,s
+734,natus-vincere-vs-saw-m2-nuke.dem,5,ct,SAW,Natus Vincere,SAW,armado,eco,s
+735,natus-vincere-vs-saw-m2-nuke.dem,7,t,SAW,Natus Vincere,Natus Vincere,armado,semi,n
+736,natus-vincere-vs-saw-m2-nuke.dem,12,t,SAW,Natus Vincere,Natus Vincere,armado,semi,n
+737,natus-vincere-vs-saw-m2-nuke.dem,14,t,Natus Vincere,SAW,SAW,armado,semi,n
+738,natus-vincere-vs-saw-m2-nuke.dem,15,t,Natus Vincere,SAW,SAW,semi,armado,s
+739,natus-vincere-vs-saw-m2-nuke.dem,16,t,Natus Vincere,SAW,SAW,eco,armado,s
+740,natus-vincere-vs-saw-m2-nuke.dem,18,t,Natus Vincere,SAW,SAW,semi,armado,s
+741,natus-vincere-vs-tyloo-m1-inferno.dem,2,t,Natus Vincere,TYLOO,TYLOO,armado,semi,n
+742,natus-vincere-vs-tyloo-m1-inferno.dem,16,t,TYLOO,Natus Vincere,Natus Vincere,armado,semi,n
+743,natus-vincere-vs-tyloo-m1-inferno.dem,22,t,TYLOO,Natus Vincere,Natus Vincere,armado,semi,n
+744,natus-vincere-vs-tyloo-m1-inferno.dem,3,t,Natus Vincere,TYLOO,TYLOO,semi,armado,s
+745,natus-vincere-vs-tyloo-m1-inferno.dem,4,t,Natus Vincere,TYLOO,TYLOO,semi,armado,s
+746,natus-vincere-vs-tyloo-m1-inferno.dem,19,t,TYLOO,Natus Vincere,Natus Vincere,eco,armado,s
+747,natus-vincere-vs-tyloo-m2-mirage.dem,14,ct,Natus Vincere,TYLOO,Natus Vincere,semi,armado,n
+748,natus-vincere-vs-tyloo-m2-mirage.dem,15,ct,Natus Vincere,TYLOO,Natus Vincere,armado,semi,s
+749,natus-vincere-vs-tyloo-m2-mirage.dem,16,ct,Natus Vincere,TYLOO,Natus Vincere,armado,semi,s
+750,natus-vincere-vs-tyloo-m2-mirage.dem,17,t,Natus Vincere,TYLOO,TYLOO,armado,semi,n
+751,natus-vincere-vs-tyloo-m2-mirage.dem,3,t,TYLOO,Natus Vincere,Natus Vincere,eco,armado,s
+752,natus-vincere-vs-tyloo-m2-mirage.dem,6,t,TYLOO,Natus Vincere,Natus Vincere,eco,armado,s
+753,natus-vincere-vs-tyloo-m2-mirage.dem,8,t,TYLOO,Natus Vincere,Natus Vincere,semi,armado,s
+754,natus-vincere-vs-tyloo-m3-ancient.dem,9,ct,Natus Vincere,TYLOO,Natus Vincere,armado,semi,s
+755,natus-vincere-vs-tyloo-m3-ancient.dem,10,ct,Natus Vincere,TYLOO,Natus Vincere,armado,eco,s
+756,natus-vincere-vs-tyloo-m3-ancient.dem,12,ct,Natus Vincere,TYLOO,Natus Vincere,armado,semi,s
+757,natus-vincere-vs-tyloo-m3-ancient.dem,14,ct,TYLOO,Natus Vincere,TYLOO,armado,eco,s
+758,natus-vincere-vs-tyloo-m3-ancient.dem,4,t,Natus Vincere,TYLOO,TYLOO,armado,semi,n
+759,natus-vincere-vs-tyloo-m3-ancient.dem,6,t,Natus Vincere,TYLOO,TYLOO,eco,armado,s
+760,natus-vincere-vs-tyloo-m3-ancient.dem,16,t,TYLOO,Natus Vincere,Natus Vincere,eco,armado,s
+761,natus-vincere-vs-tyloo-m3-ancient.dem,18,t,TYLOO,Natus Vincere,Natus Vincere,semi,armado,s
+762,the-mongolz-vs-natus-vincere-m2-ancient.dem,12,ct,Natus Vincere,The MongolZ,Natus Vincere,semi,armado,n
+763,the-mongolz-vs-natus-vincere-m2-ancient.dem,21,ct,The MongolZ,Natus Vincere,The MongolZ,semi,armado,n
+764,the-mongolz-vs-natus-vincere-m2-ancient.dem,2,ct,Natus Vincere,The MongolZ,Natus Vincere,armado,semi,s
+765,the-mongolz-vs-natus-vincere-m2-ancient.dem,3,ct,Natus Vincere,The MongolZ,Natus Vincere,armado,eco,s
+766,the-mongolz-vs-natus-vincere-m2-ancient.dem,7,ct,Natus Vincere,The MongolZ,Natus Vincere,armado,semi,s
+767,the-mongolz-vs-natus-vincere-m2-ancient.dem,9,ct,Natus Vincere,The MongolZ,Natus Vincere,armado,semi,s
+768,the-mongolz-vs-natus-vincere-m2-ancient.dem,16,ct,The MongolZ,Natus Vincere,The MongolZ,armado,semi,s
+769,the-mongolz-vs-natus-vincere-m2-ancient.dem,5,t,Natus Vincere,The MongolZ,The MongolZ,armado,semi,n
+770,the-mongolz-vs-natus-vincere-m2-ancient.dem,20,t,The MongolZ,Natus Vincere,Natus Vincere,semi,armado,s
+771,the-mongolz-vs-natus-vincere-m1-mirage.dem,16,ct,Natus Vincere,The MongolZ,Natus Vincere,armado,semi,s
+772,the-mongolz-vs-natus-vincere-m1-mirage.dem,3,t,The MongolZ,Natus Vincere,Natus Vincere,semi,armado,s
+773,the-mongolz-vs-natus-vincere-m1-mirage.dem,6,t,The MongolZ,Natus Vincere,Natus Vincere,semi,armado,s
+774,the-mongolz-vs-natus-vincere-m1-mirage.dem,9,t,The MongolZ,Natus Vincere,Natus Vincere,semi,armado,s
+775,the-mongolz-vs-natus-vincere-m1-mirage.dem,14,t,Natus Vincere,The MongolZ,The MongolZ,eco,armado,s
+776,eternal-fire-vs-pain-m1-nuke.dem,12,ct,Eternal Fire,paiN Gaming,Eternal Fire,armado,semi,s
+777,eternal-fire-vs-pain-m1-nuke.dem,14,ct,paiN Gaming,Eternal Fire,paiN Gaming,armado,eco,s
+778,eternal-fire-vs-pain-m1-nuke.dem,6,t,Eternal Fire,paiN Gaming,paiN Gaming,eco,armado,s
+779,eternal-fire-vs-pain-m1-nuke.dem,16,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+780,eternal-fire-vs-pain-m1-nuke.dem,17,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+781,eternal-fire-vs-pain-m1-nuke.dem,19,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+782,eternal-fire-vs-pain-m1-nuke.dem,21,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+783,eternal-fire-vs-pain-m2-inferno.dem,18,ct,Eternal Fire,paiN Gaming,Eternal Fire,armado,eco,s
+784,eternal-fire-vs-pain-m2-inferno.dem,20,ct,Eternal Fire,paiN Gaming,Eternal Fire,armado,semi,s
+785,eternal-fire-vs-pain-m2-inferno.dem,2,t,paiN Gaming,Eternal Fire,Eternal Fire,armado,semi,n
+786,eternal-fire-vs-pain-m2-inferno.dem,7,t,paiN Gaming,Eternal Fire,Eternal Fire,armado,semi,n
+787,eternal-fire-vs-pain-m2-inferno.dem,3,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+788,eternal-fire-vs-pain-m2-inferno.dem,4,t,paiN Gaming,Eternal Fire,Eternal Fire,semi,armado,s
+789,eternal-fire-vs-pain-m2-inferno.dem,10,t,paiN Gaming,Eternal Fire,Eternal Fire,eco,armado,s
+790,g2-vs-pain-m1-nuke.dem,2,ct,G2 Esports,paiN Gaming,G2 Esports,armado,eco,s
+791,g2-vs-pain-m1-nuke.dem,10,ct,G2 Esports,paiN Gaming,G2 Esports,armado,semi,s
+792,g2-vs-pain-m1-nuke.dem,11,ct,G2 Esports,paiN Gaming,G2 Esports,armado,eco,s
+793,g2-vs-pain-m1-nuke.dem,4,t,G2 Esports,paiN Gaming,paiN Gaming,armado,semi,n
+794,g2-vs-pain-m1-nuke.dem,8,t,G2 Esports,paiN Gaming,paiN Gaming,semi,armado,s
+795,g2-vs-pain-m1-nuke.dem,15,t,paiN Gaming,G2 Esports,G2 Esports,semi,armado,s
+796,g2-vs-pain-m1-nuke.dem,17,t,paiN Gaming,G2 Esports,G2 Esports,semi,armado,s
+797,g2-vs-pain-m2-inferno.dem,5,ct,paiN Gaming,G2 Esports,paiN Gaming,semi,armado,n
+798,g2-vs-pain-m2-inferno.dem,20,ct,G2 Esports,paiN Gaming,G2 Esports,armado,semi,s
+799,g2-vs-pain-m2-inferno.dem,3,t,paiN Gaming,G2 Esports,G2 Esports,semi,armado,s
+800,g2-vs-pain-m2-inferno.dem,15,t,G2 Esports,paiN Gaming,paiN Gaming,semi,armado,s
+801,gamerlegion-vs-pain-m1-nuke.dem,2,ct,GamerLegion,paiN Gaming,GamerLegion,armado,eco,s
+802,gamerlegion-vs-pain-m1-nuke.dem,11,ct,GamerLegion,paiN Gaming,GamerLegion,armado,semi,s
+803,gamerlegion-vs-pain-m1-nuke.dem,16,ct,paiN Gaming,GamerLegion,paiN Gaming,armado,semi,s
+804,gamerlegion-vs-pain-m1-nuke.dem,4,t,GamerLegion,paiN Gaming,paiN Gaming,semi,armado,s
+805,gamerlegion-vs-pain-m1-nuke.dem,5,t,GamerLegion,paiN Gaming,paiN Gaming,semi,armado,s
+806,gamerlegion-vs-pain-m1-nuke.dem,7,t,GamerLegion,paiN Gaming,paiN Gaming,semi,armado,s
+807,gamerlegion-vs-pain-m2-inferno.dem,3,ct,GamerLegion,paiN Gaming,GamerLegion,armado,semi,s
+808,gamerlegion-vs-pain-m2-inferno.dem,4,ct,GamerLegion,paiN Gaming,GamerLegion,armado,eco,s
+809,gamerlegion-vs-pain-m2-inferno.dem,6,ct,GamerLegion,paiN Gaming,GamerLegion,armado,semi,s
+810,gamerlegion-vs-pain-m2-inferno.dem,20,ct,paiN Gaming,GamerLegion,paiN Gaming,armado,semi,s
+811,gamerlegion-vs-pain-m2-inferno.dem,21,ct,paiN Gaming,GamerLegion,paiN Gaming,armado,eco,s
+812,gamerlegion-vs-pain-m2-inferno.dem,23,t,paiN Gaming,GamerLegion,GamerLegion,armado,semi,n
+813,gamerlegion-vs-pain-m2-inferno.dem,14,t,paiN Gaming,GamerLegion,GamerLegion,semi,armado,s
+814,gamerlegion-vs-pain-m2-inferno.dem,15,t,paiN Gaming,GamerLegion,GamerLegion,eco,armado,s
+815,gamerlegion-vs-pain-m2-inferno.dem,17,t,paiN Gaming,GamerLegion,GamerLegion,semi,armado,s
+816,gamerlegion-vs-pain-m3-mirage.dem,9,ct,GamerLegion,paiN Gaming,GamerLegion,semi,armado,n
+817,gamerlegion-vs-pain-m3-mirage.dem,14,ct,paiN Gaming,GamerLegion,paiN Gaming,armado,semi,s
+818,gamerlegion-vs-pain-m3-mirage.dem,15,ct,paiN Gaming,GamerLegion,paiN Gaming,armado,semi,s
+819,gamerlegion-vs-pain-m3-mirage.dem,3,t,GamerLegion,paiN Gaming,paiN Gaming,armado,semi,n
+820,gamerlegion-vs-pain-m3-mirage.dem,4,t,GamerLegion,paiN Gaming,paiN Gaming,semi,armado,s
+821,gamerlegion-vs-pain-m3-mirage.dem,6,t,GamerLegion,paiN Gaming,paiN Gaming,semi,armado,s
+822,pain-vs-natus-vincere-m2-mirage.dem,15,ct,Natus Vincere,paiN Gaming,Natus Vincere,armado,semi,s
+823,pain-vs-natus-vincere-m2-mirage.dem,16,ct,Natus Vincere,paiN Gaming,Natus Vincere,armado,eco,s
+824,pain-vs-natus-vincere-m2-mirage.dem,18,ct,Natus Vincere,paiN Gaming,Natus Vincere,armado,semi,s
+825,pain-vs-natus-vincere-m2-mirage.dem,5,t,paiN Gaming,Natus Vincere,Natus Vincere,armado,semi,n
+826,pain-vs-natus-vincere-m2-mirage.dem,6,t,paiN Gaming,Natus Vincere,Natus Vincere,semi,armado,s
+827,pain-vs-natus-vincere-m2-mirage.dem,7,t,paiN Gaming,Natus Vincere,Natus Vincere,eco,armado,s
+828,pain-vs-natus-vincere-m2-mirage.dem,9,t,paiN Gaming,Natus Vincere,Natus Vincere,eco,armado,s
+829,pain-vs-natus-vincere-m1-train.dem,2,ct,Natus Vincere,paiN Gaming,Natus Vincere,armado,semi,s
+830,pain-vs-natus-vincere-m1-train.dem,3,ct,Natus Vincere,paiN Gaming,Natus Vincere,armado,eco,s
+831,pain-vs-natus-vincere-m1-train.dem,22,ct,paiN Gaming,Natus Vincere,paiN Gaming,armado,eco,s
+832,pain-vs-natus-vincere-m1-train.dem,24,ct,paiN Gaming,Natus Vincere,paiN Gaming,armado,semi,s
+833,pain-vs-natus-vincere-m1-train.dem,11,t,Natus Vincere,paiN Gaming,paiN Gaming,armado,semi,n
+834,pain-vs-natus-vincere-m1-train.dem,6,t,Natus Vincere,paiN Gaming,paiN Gaming,eco,armado,s
+835,pain-vs-natus-vincere-m1-train.dem,9,t,Natus Vincere,paiN Gaming,paiN Gaming,semi,armado,s
+836,pain-vs-natus-vincere-m1-train.dem,12,t,Natus Vincere,paiN Gaming,paiN Gaming,semi,armado,s
+837,pain-vs-natus-vincere-m1-train.dem,15,t,paiN Gaming,Natus Vincere,Natus Vincere,eco,armado,s
+838,pain-vs-natus-vincere-m1-train.dem,17,t,paiN Gaming,Natus Vincere,Natus Vincere,semi,armado,s
+839,flyquest-vs-pain-m1-anubis.dem,5,ct,FlyQuest,paiN Gaming,FlyQuest,armado,eco,s
+840,flyquest-vs-pain-m1-anubis.dem,7,ct,FlyQuest,paiN Gaming,FlyQuest,armado,eco,s
+841,flyquest-vs-pain-m1-anubis.dem,11,ct,FlyQuest,paiN Gaming,FlyQuest,armado,semi,s
+842,flyquest-vs-pain-m1-anubis.dem,14,ct,paiN Gaming,FlyQuest,paiN Gaming,armado,eco,s
+843,flyquest-vs-pain-m1-anubis.dem,17,t,paiN Gaming,FlyQuest,FlyQuest,eco,armado,s
+844,flyquest-vs-pain-m2-nuke.dem,7,ct,FlyQuest,paiN Gaming,FlyQuest,semi,armado,n
+845,flyquest-vs-pain-m2-nuke.dem,3,ct,FlyQuest,paiN Gaming,FlyQuest,armado,semi,s
+846,flyquest-vs-pain-m2-nuke.dem,10,ct,FlyQuest,paiN Gaming,FlyQuest,armado,eco,s
+847,flyquest-vs-pain-m2-nuke.dem,14,ct,paiN Gaming,FlyQuest,paiN Gaming,armado,eco,s
+848,flyquest-vs-pain-m2-nuke.dem,16,ct,paiN Gaming,FlyQuest,paiN Gaming,armado,semi,s
+849,flyquest-vs-pain-m2-nuke.dem,18,ct,paiN Gaming,FlyQuest,paiN Gaming,armado,semi,s
+850,flyquest-vs-pain-m2-nuke.dem,5,t,FlyQuest,paiN Gaming,paiN Gaming,eco,armado,s
+851,flyquest-vs-pain-m3-inferno.dem,2,ct,FlyQuest,paiN Gaming,FlyQuest,semi,armado,n
+852,flyquest-vs-pain-m3-inferno.dem,19,ct,paiN Gaming,FlyQuest,paiN Gaming,semi,armado,n
+853,flyquest-vs-pain-m3-inferno.dem,3,ct,FlyQuest,paiN Gaming,FlyQuest,armado,eco,s
+854,flyquest-vs-pain-m3-inferno.dem,4,ct,FlyQuest,paiN Gaming,FlyQuest,armado,eco,s
+855,flyquest-vs-pain-m3-inferno.dem,18,t,paiN Gaming,FlyQuest,FlyQuest,armado,semi,n
+856,flyquest-vs-pain-m3-inferno.dem,6,t,FlyQuest,paiN Gaming,paiN Gaming,semi,armado,s
+857,flyquest-vs-pain-m3-inferno.dem,9,t,FlyQuest,paiN Gaming,paiN Gaming,eco,armado,s
+858,flyquest-vs-pain-m3-inferno.dem,11,t,FlyQuest,paiN Gaming,paiN Gaming,semi,armado,s
+859,flyquest-vs-pain-m3-inferno.dem,15,t,paiN Gaming,FlyQuest,FlyQuest,eco,armado,s
+860,flyquest-vs-pain-m3-inferno.dem,22,t,paiN Gaming,FlyQuest,FlyQuest,semi,armado,s
+861,pain-vs-lynn-vision-m2-nuke.dem,4,ct,Lynn Vision Gaming,paiN Gaming,Lynn Vision Gaming,eco,armado,n
+862,pain-vs-lynn-vision-m2-nuke.dem,14,ct,paiN Gaming,Lynn Vision Gaming,paiN Gaming,armado,eco,s
+863,pain-vs-lynn-vision-m2-nuke.dem,16,ct,paiN Gaming,Lynn Vision Gaming,paiN Gaming,armado,semi,s
+864,pain-vs-lynn-vision-m2-nuke.dem,7,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,armado,semi,n
+865,pain-vs-lynn-vision-m2-nuke.dem,3,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,semi,armado,s
+866,pain-vs-lynn-vision-m2-nuke.dem,8,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+867,pain-vs-lynn-vision-m2-nuke.dem,10,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+868,pain-vs-lynn-vision-m3-anubis.dem,7,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,armado,semi,n
+869,pain-vs-lynn-vision-m3-anubis.dem,2,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,eco,armado,s
+870,pain-vs-lynn-vision-m3-anubis.dem,4,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+871,pain-vs-lynn-vision-m3-anubis.dem,9,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+872,pain-vs-lynn-vision-m3-anubis.dem,10,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,eco,armado,s
+873,pain-vs-lynn-vision-m3-anubis.dem,16,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,semi,armado,s
+874,pain-vs-lynn-vision-m3-anubis.dem,19,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,semi,armado,s
+875,pain-vs-lynn-vision-m3-anubis.dem,20,t,Lynn Vision Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+876,pain-vs-lynn-vision-m1-dust2.dem,3,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+877,pain-vs-lynn-vision-m1-dust2.dem,5,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+878,pain-vs-lynn-vision-m1-dust2.dem,7,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+879,pain-vs-lynn-vision-m1-dust2.dem,9,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+880,pain-vs-lynn-vision-m1-dust2.dem,11,t,paiN Gaming,Lynn Vision Gaming,Lynn Vision Gaming,semi,armado,s
+881,pain-vs-m80-m1-anubis.dem,17,ct,paiN Gaming,M80,paiN Gaming,semi,armado,n
+882,pain-vs-m80-m1-anubis.dem,8,ct,M80,paiN Gaming,M80,armado,semi,s
+883,pain-vs-m80-m1-anubis.dem,9,ct,M80,paiN Gaming,M80,armado,semi,s
+884,pain-vs-m80-m1-anubis.dem,3,t,M80,paiN Gaming,paiN Gaming,armado,semi,n
+885,pain-vs-m80-m1-anubis.dem,4,t,M80,paiN Gaming,paiN Gaming,semi,armado,s
+886,pain-vs-m80-m1-anubis.dem,5,t,M80,paiN Gaming,paiN Gaming,eco,armado,s
+887,pain-vs-m80-m1-anubis.dem,15,t,paiN Gaming,M80,M80,eco,armado,s
+888,pain-vs-m80-m2-mirage.dem,3,ct,M80,paiN Gaming,M80,semi,armado,n
+889,pain-vs-m80-m2-mirage.dem,5,ct,M80,paiN Gaming,M80,semi,armado,n
+890,pain-vs-m80-m2-mirage.dem,6,ct,M80,paiN Gaming,M80,armado,eco,s
+891,pain-vs-m80-m2-mirage.dem,8,ct,M80,paiN Gaming,M80,armado,semi,s
+892,pain-vs-m80-m2-mirage.dem,9,ct,M80,paiN Gaming,M80,armado,eco,s
+893,pain-vs-m80-m2-mirage.dem,11,ct,M80,paiN Gaming,M80,armado,semi,s
+894,pain-vs-m80-m2-mirage.dem,2,t,M80,paiN Gaming,paiN Gaming,semi,armado,s
+895,pain-vs-m80-m2-mirage.dem,16,t,paiN Gaming,M80,M80,semi,armado,s
+896,pain-vs-m80-m2-mirage.dem,17,t,paiN Gaming,M80,M80,eco,armado,s
+897,pain-vs-nemiga-m2-mirage.dem,4,ct,Nemiga Gaming,paiN Gaming,Nemiga Gaming,semi,armado,n
+898,pain-vs-nemiga-m2-mirage.dem,22,ct,paiN Gaming,Nemiga Gaming,paiN Gaming,armado,semi,s
+899,pain-vs-nemiga-m2-mirage.dem,17,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+900,pain-vs-nemiga-m2-mirage.dem,19,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+901,pain-vs-nemiga-m2-mirage.dem,3,t,Nemiga Gaming,paiN Gaming,paiN Gaming,semi,armado,s
+902,pain-vs-nemiga-m2-mirage.dem,7,t,Nemiga Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+903,pain-vs-nemiga-m2-mirage.dem,9,t,Nemiga Gaming,paiN Gaming,paiN Gaming,semi,armado,s
+904,pain-vs-nemiga-m2-mirage.dem,14,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+905,pain-vs-nemiga-m2-mirage.dem,15,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+906,pain-vs-nemiga-m3-dust2.dem,6,ct,Nemiga Gaming,paiN Gaming,Nemiga Gaming,semi,armado,n
+907,pain-vs-nemiga-m3-dust2.dem,12,ct,Nemiga Gaming,paiN Gaming,Nemiga Gaming,semi,armado,n
+908,pain-vs-nemiga-m3-dust2.dem,24,ct,paiN Gaming,Nemiga Gaming,paiN Gaming,semi,armado,n
+909,pain-vs-nemiga-m3-dust2.dem,8,ct,Nemiga Gaming,paiN Gaming,Nemiga Gaming,armado,semi,s
+910,pain-vs-nemiga-m3-dust2.dem,14,ct,paiN Gaming,Nemiga Gaming,paiN Gaming,armado,eco,s
+911,pain-vs-nemiga-m3-dust2.dem,23,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+912,pain-vs-nemiga-m3-dust2.dem,4,t,Nemiga Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+913,pain-vs-nemiga-m3-dust2.dem,21,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+914,pain-vs-nemiga-m1-train.dem,3,ct,paiN Gaming,Nemiga Gaming,paiN Gaming,semi,armado,n
+915,pain-vs-nemiga-m1-train.dem,5,ct,paiN Gaming,Nemiga Gaming,paiN Gaming,semi,armado,n
+916,pain-vs-nemiga-m1-train.dem,20,ct,Nemiga Gaming,paiN Gaming,Nemiga Gaming,semi,armado,n
+917,pain-vs-nemiga-m1-train.dem,4,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+918,pain-vs-nemiga-m1-train.dem,6,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,armado,semi,n
+919,pain-vs-nemiga-m1-train.dem,16,t,Nemiga Gaming,paiN Gaming,paiN Gaming,armado,semi,n
+920,pain-vs-nemiga-m1-train.dem,8,t,paiN Gaming,Nemiga Gaming,Nemiga Gaming,semi,armado,s
+921,pain-vs-nemiga-m1-train.dem,18,t,Nemiga Gaming,paiN Gaming,paiN Gaming,eco,armado,s
+922,spirit-vs-saw-m1-dust2.dem,14,ct,Team Spirit,SAW,Team Spirit,armado,semi,s
+923,spirit-vs-saw-m1-dust2.dem,3,t,SAW,Team Spirit,Team Spirit,eco,armado,s
+924,spirit-vs-saw-m1-dust2.dem,8,t,SAW,Team Spirit,Team Spirit,semi,armado,s
+925,spirit-vs-saw-m1-dust2.dem,10,t,SAW,Team Spirit,Team Spirit,semi,armado,s
+926,spirit-vs-saw-m2-train.dem,12,ct,Team Spirit,SAW,Team Spirit,semi,armado,n
+927,spirit-vs-saw-m2-train.dem,4,ct,Team Spirit,SAW,Team Spirit,armado,semi,s
+928,spirit-vs-saw-m2-train.dem,5,ct,Team Spirit,SAW,Team Spirit,armado,eco,s
+929,spirit-vs-saw-m2-train.dem,20,t,SAW,Team Spirit,Team Spirit,armado,semi,n
+930,spirit-vs-saw-m2-train.dem,7,t,Team Spirit,SAW,SAW,semi,armado,s
+931,spirit-vs-saw-m2-train.dem,15,t,SAW,Team Spirit,Team Spirit,eco,armado,s
+932,spirit-vs-saw-m2-train.dem,17,t,SAW,Team Spirit,Team Spirit,semi,armado,s
+933,spirit-vs-saw-m2-train.dem,21,t,SAW,Team Spirit,Team Spirit,semi,armado,s
+934,spirit-vs-the-mongolz-m1-anubis.dem,8,ct,Team Spirit,The MongolZ,Team Spirit,armado,eco,s
+935,spirit-vs-the-mongolz-m1-anubis.dem,12,ct,Team Spirit,The MongolZ,Team Spirit,armado,semi,s
+936,spirit-vs-the-mongolz-m1-anubis.dem,2,t,Team Spirit,The MongolZ,The MongolZ,semi,armado,s
+937,spirit-vs-the-mongolz-m1-anubis.dem,3,t,Team Spirit,The MongolZ,The MongolZ,semi,armado,s
+938,spirit-vs-the-mongolz-m1-anubis.dem,17,t,The MongolZ,Team Spirit,Team Spirit,eco,armado,s
+939,spirit-vs-the-mongolz-m2-dust2.dem,2,ct,The MongolZ,Team Spirit,The MongolZ,armado,eco,s
+940,spirit-vs-the-mongolz-m2-dust2.dem,14,ct,Team Spirit,The MongolZ,Team Spirit,armado,eco,s
+941,spirit-vs-the-mongolz-m2-dust2.dem,18,t,Team Spirit,The MongolZ,The MongolZ,armado,semi,n
+942,spirit-vs-the-mongolz-m2-dust2.dem,4,t,The MongolZ,Team Spirit,Team Spirit,semi,armado,s
+943,spirit-vs-the-mongolz-m2-dust2.dem,5,t,The MongolZ,Team Spirit,Team Spirit,semi,armado,s
+944,spirit-vs-the-mongolz-m2-dust2.dem,7,t,The MongolZ,Team Spirit,Team Spirit,semi,armado,s
+945,spirit-vs-the-mongolz-m2-dust2.dem,20,t,Team Spirit,The MongolZ,The MongolZ,semi,armado,s
+946,spirit-vs-the-mongolz-m2-dust2.dem,22,t,Team Spirit,The MongolZ,The MongolZ,semi,armado,s
+947,spirit-vs-tyloo-m1-anubis-p2.dem,21,ct,Team Spirit,TYLOO,Team Spirit,semi,armado,n
+948,spirit-vs-tyloo-m1-anubis-p2.dem,6,t,TYLOO,Team Spirit,Team Spirit,semi,armado,s
+949,spirit-vs-tyloo-m1-anubis-p2.dem,8,t,TYLOO,Team Spirit,Team Spirit,semi,armado,s
+950,spirit-vs-tyloo-m1-anubis-p2.dem,17,t,Team Spirit,TYLOO,TYLOO,semi,armado,s
+951,spirit-vs-tyloo-m1-anubis-p2.dem,19,t,Team Spirit,TYLOO,TYLOO,semi,armado,s
+952,spirit-vs-tyloo-m2-nuke.dem,12,ct,TYLOO,Team Spirit,TYLOO,semi,armado,n
+953,spirit-vs-tyloo-m2-nuke.dem,16,ct,Team Spirit,TYLOO,Team Spirit,semi,armado,n
+954,spirit-vs-tyloo-m2-nuke.dem,14,ct,Team Spirit,TYLOO,Team Spirit,armado,eco,s
+955,spirit-vs-tyloo-m2-nuke.dem,17,ct,Team Spirit,TYLOO,Team Spirit,armado,semi,s
+956,spirit-vs-tyloo-m2-nuke.dem,19,ct,Team Spirit,TYLOO,Team Spirit,armado,semi,s
+957,spirit-vs-tyloo-m2-nuke.dem,8,t,TYLOO,Team Spirit,Team Spirit,armado,semi,n
+958,spirit-vs-tyloo-m2-nuke.dem,2,t,TYLOO,Team Spirit,Team Spirit,eco,armado,s
+959,spirit-vs-tyloo-m2-nuke.dem,5,t,TYLOO,Team Spirit,Team Spirit,semi,armado,s
+960,spirit-vs-tyloo-m2-nuke.dem,9,t,TYLOO,Team Spirit,Team Spirit,eco,armado,s
+961,gamerlegion-vs-spirit-m2-ancient-p2.dem,9,t,GamerLegion,Team Spirit,Team Spirit,armado,semi,n
+962,gamerlegion-vs-spirit-m3-nuke-p3.dem,10,ct,Team Spirit,GamerLegion,Team Spirit,armado,semi,s
+963,gamerlegion-vs-spirit-m3-nuke-p3.dem,11,ct,Team Spirit,GamerLegion,Team Spirit,armado,eco,s
+964,gamerlegion-vs-spirit-m3-nuke-p3.dem,3,t,Team Spirit,GamerLegion,GamerLegion,armado,semi,n
+965,gamerlegion-vs-spirit-m3-nuke-p3.dem,4,t,Team Spirit,GamerLegion,GamerLegion,semi,armado,s
+966,gamerlegion-vs-spirit-m3-nuke-p3.dem,5,t,Team Spirit,GamerLegion,GamerLegion,eco,armado,s
+967,gamerlegion-vs-spirit-m3-nuke-p3.dem,15,t,GamerLegion,Team Spirit,Team Spirit,eco,armado,s
+968,gamerlegion-vs-spirit-m1-anubis-p1.dem,2,ct,Team Spirit,GamerLegion,Team Spirit,semi,armado,n
+969,gamerlegion-vs-spirit-m1-anubis-p1.dem,3,ct,Team Spirit,GamerLegion,Team Spirit,armado,semi,s
+970,gamerlegion-vs-spirit-m1-anubis-p1.dem,4,ct,Team Spirit,GamerLegion,Team Spirit,armado,eco,s
+971,gamerlegion-vs-spirit-m1-anubis-p1.dem,7,t,Team Spirit,GamerLegion,GamerLegion,semi,armado,s
+972,gamerlegion-vs-spirit-m1-anubis-p2.dem,17,ct,GamerLegion,Team Spirit,GamerLegion,armado,semi,s
+973,gamerlegion-vs-spirit-m1-anubis-p2.dem,10,t,GamerLegion,Team Spirit,Team Spirit,armado,semi,n
+974,gamerlegion-vs-spirit-m1-anubis-p2.dem,16,t,GamerLegion,Team Spirit,Team Spirit,armado,semi,n
+975,gamerlegion-vs-spirit-m1-anubis-p2.dem,11,t,GamerLegion,Team Spirit,Team Spirit,semi,armado,s
+976,gamerlegion-vs-spirit-m2-ancient-p1.dem,3,ct,Team Spirit,GamerLegion,Team Spirit,armado,semi,s
+977,gamerlegion-vs-spirit-m2-ancient-p1.dem,4,ct,Team Spirit,GamerLegion,Team Spirit,armado,eco,s
+978,gamerlegion-vs-spirit-m2-ancient-p1.dem,6,ct,Team Spirit,GamerLegion,Team Spirit,armado,semi,s
+979,liquid-vs-spirit-m1-nuke-p1.dem,6,t,Team Spirit,Team Liquid,Team Liquid,armado,semi,n
+980,liquid-vs-spirit-m1-nuke-p1.dem,7,t,Team Spirit,Team Liquid,Team Liquid,semi,armado,s
+981,liquid-vs-spirit-m1-nuke-p2.dem,11,t,Team Liquid,Team Spirit,Team Spirit,armado,eco,n
+982,liquid-vs-spirit-m1-nuke-p2.dem,14,t,Team Liquid,Team Spirit,Team Spirit,armado,eco,n
+983,liquid-vs-spirit-m2-dust2.dem,12,ct,Team Liquid,Team Spirit,Team Liquid,semi,armado,n
+984,liquid-vs-spirit-m2-dust2.dem,21,ct,Team Spirit,Team Liquid,Team Spirit,semi,armado,n
+985,liquid-vs-spirit-m2-dust2.dem,15,ct,Team Spirit,Team Liquid,Team Spirit,armado,eco,s
+986,liquid-vs-spirit-m2-dust2.dem,3,t,Team Liquid,Team Spirit,Team Spirit,eco,armado,s
+987,liquid-vs-spirit-m2-dust2.dem,6,t,Team Liquid,Team Spirit,Team Spirit,semi,armado,s
+988,natus-vincere-vs-spirit-m1-mirage.dem,18,ct,Natus Vincere,Team Spirit,Natus Vincere,semi,armado,n
+989,natus-vincere-vs-spirit-m1-mirage.dem,2,ct,Team Spirit,Natus Vincere,Team Spirit,armado,semi,s
+990,natus-vincere-vs-spirit-m1-mirage.dem,3,ct,Team Spirit,Natus Vincere,Team Spirit,armado,eco,s
+991,natus-vincere-vs-spirit-m1-mirage.dem,6,ct,Team Spirit,Natus Vincere,Team Spirit,armado,eco,s
+992,natus-vincere-vs-spirit-m1-mirage.dem,8,ct,Team Spirit,Natus Vincere,Team Spirit,armado,semi,s
+993,natus-vincere-vs-spirit-m1-mirage.dem,14,ct,Natus Vincere,Team Spirit,Natus Vincere,armado,semi,s
+994,natus-vincere-vs-spirit-m1-mirage.dem,15,ct,Natus Vincere,Team Spirit,Natus Vincere,armado,eco,s
+995,natus-vincere-vs-spirit-m1-mirage.dem,19,t,Natus Vincere,Team Spirit,Team Spirit,armado,semi,n
+996,natus-vincere-vs-spirit-m1-mirage.dem,21,t,Natus Vincere,Team Spirit,Team Spirit,semi,armado,s
+997,natus-vincere-vs-spirit-m2-dust2.dem,5,ct,Natus Vincere,Team Spirit,Natus Vincere,eco,armado,n
+998,natus-vincere-vs-spirit-m2-dust2.dem,14,ct,Team Spirit,Natus Vincere,Team Spirit,semi,armado,n
+999,natus-vincere-vs-spirit-m2-dust2.dem,23,ct,Team Spirit,Natus Vincere,Team Spirit,semi,armado,n
+1000,natus-vincere-vs-spirit-m2-dust2.dem,12,ct,Natus Vincere,Team Spirit,Natus Vincere,armado,semi,s
+1001,natus-vincere-vs-spirit-m2-dust2.dem,20,ct,Team Spirit,Natus Vincere,Team Spirit,armado,semi,s
+1002,natus-vincere-vs-spirit-m2-dust2.dem,24,ct,Team Spirit,Natus Vincere,Team Spirit,armado,semi,s
+1003,natus-vincere-vs-spirit-m2-dust2.dem,3,t,Natus Vincere,Team Spirit,Team Spirit,armado,semi,n
+1004,natus-vincere-vs-spirit-m2-dust2.dem,15,t,Team Spirit,Natus Vincere,Natus Vincere,armado,semi,n
+1005,natus-vincere-vs-spirit-m2-dust2.dem,4,t,Natus Vincere,Team Spirit,Team Spirit,semi,armado,s
+1006,natus-vincere-vs-spirit-m2-dust2.dem,8,t,Natus Vincere,Team Spirit,Team Spirit,eco,armado,s
+1007,natus-vincere-vs-spirit-m2-dust2.dem,16,t,Team Spirit,Natus Vincere,Natus Vincere,semi,armado,s
+1008,natus-vincere-vs-spirit-m2-dust2.dem,17,t,Team Spirit,Natus Vincere,Natus Vincere,eco,armado,s
+1009,virtus-pro-vs-spirit-m2-ancient.dem,17,ct,Team Spirit,Virtus.pro,Team Spirit,semi,armado,n
+1010,virtus-pro-vs-spirit-m2-ancient.dem,20,ct,Team Spirit,Virtus.pro,Team Spirit,semi,armado,n
+1011,virtus-pro-vs-spirit-m2-ancient.dem,5,ct,Virtus.pro,Team Spirit,Virtus.pro,armado,semi,s
+1012,virtus-pro-vs-spirit-m2-ancient.dem,6,ct,Virtus.pro,Team Spirit,Virtus.pro,armado,eco,s
+1013,virtus-pro-vs-spirit-m2-ancient.dem,18,ct,Team Spirit,Virtus.pro,Team Spirit,armado,semi,s
+1014,virtus-pro-vs-spirit-m2-ancient.dem,9,t,Virtus.pro,Team Spirit,Team Spirit,semi,armado,s
+1015,virtus-pro-vs-spirit-m2-ancient.dem,12,t,Virtus.pro,Team Spirit,Team Spirit,semi,armado,s
+1016,virtus-pro-vs-spirit-m1-train.dem,5,ct,Team Spirit,Virtus.pro,Team Spirit,armado,semi,s
+1017,virtus-pro-vs-spirit-m1-train.dem,7,ct,Team Spirit,Virtus.pro,Team Spirit,armado,semi,s
+1018,virtus-pro-vs-spirit-m1-train.dem,9,ct,Team Spirit,Virtus.pro,Team Spirit,armado,semi,s
+1019,virtus-pro-vs-spirit-m1-train.dem,10,ct,Team Spirit,Virtus.pro,Team Spirit,armado,semi,s
+1020,virtus-pro-vs-spirit-m1-train.dem,15,t,Virtus.pro,Team Spirit,Team Spirit,semi,armado,s
+1021,vitality-vs-spirit-m2-nuke.dem,14,ct,Team Vitality,Team Spirit,Team Vitality,armado,eco,s
+1022,vitality-vs-spirit-m2-nuke.dem,17,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1023,vitality-vs-spirit-m2-nuke.dem,18,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1024,vitality-vs-spirit-m2-nuke.dem,3,t,Team Spirit,Team Vitality,Team Vitality,eco,armado,s
+1025,vitality-vs-spirit-m2-nuke.dem,10,t,Team Spirit,Team Vitality,Team Vitality,semi,armado,s
+1026,vitality-vs-spirit-m2-nuke.dem,11,t,Team Spirit,Team Vitality,Team Vitality,semi,armado,s
+1027,vitality-vs-spirit-m3-mirage.dem,10,ct,Team Vitality,Team Spirit,Team Vitality,semi,armado,n
+1028,vitality-vs-spirit-m3-mirage.dem,16,ct,Team Spirit,Team Vitality,Team Spirit,semi,armado,n
+1029,vitality-vs-spirit-m3-mirage.dem,4,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1030,vitality-vs-spirit-m3-mirage.dem,11,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1031,vitality-vs-spirit-m3-mirage.dem,17,ct,Team Spirit,Team Vitality,Team Spirit,armado,semi,s
+1032,vitality-vs-spirit-m3-mirage.dem,18,ct,Team Spirit,Team Vitality,Team Spirit,armado,eco,s
+1033,vitality-vs-spirit-m3-mirage.dem,20,ct,Team Spirit,Team Vitality,Team Spirit,armado,semi,s
+1034,vitality-vs-spirit-m3-mirage.dem,14,t,Team Spirit,Team Vitality,Team Vitality,eco,armado,s
+1035,vitality-vs-spirit-m1-dust2.dem,10,ct,Team Vitality,Team Spirit,Team Vitality,semi,armado,n
+1036,vitality-vs-spirit-m1-dust2.dem,2,ct,Team Vitality,Team Spirit,Team Vitality,armado,eco,s
+1037,vitality-vs-spirit-m1-dust2.dem,5,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1038,vitality-vs-spirit-m1-dust2.dem,6,ct,Team Vitality,Team Spirit,Team Vitality,armado,semi,s
+1039,vitality-vs-spirit-m1-dust2.dem,15,t,Team Spirit,Team Vitality,Team Vitality,armado,semi,n
+1040,vitality-vs-spirit-m1-dust2.dem,12,t,Team Vitality,Team Spirit,Team Spirit,semi,armado,s
+1041,vitality-vs-spirit-m1-dust2.dem,16,t,Team Spirit,Team Vitality,Team Vitality,eco,armado,s
+1042,vitality-vs-spirit-m1-dust2.dem,18,t,Team Spirit,Team Vitality,Team Vitality,semi,armado,s
+1043,vitality-vs-spirit-m1-dust2.dem,19,t,Team Spirit,Team Vitality,Team Vitality,semi,armado,s
+1044,vitality-vs-3dmax-m1-train.dem,3,ct,Team Vitality,3DMAX,Team Vitality,armado,semi,s
+1045,vitality-vs-3dmax-m1-train.dem,4,ct,Team Vitality,3DMAX,Team Vitality,armado,eco,s
+1046,vitality-vs-3dmax-m1-train.dem,6,ct,Team Vitality,3DMAX,Team Vitality,armado,semi,s
+1047,vitality-vs-3dmax-m1-train.dem,8,ct,Team Vitality,3DMAX,Team Vitality,armado,semi,s
+1048,vitality-vs-3dmax-m1-train.dem,15,ct,3DMAX,Team Vitality,3DMAX,armado,semi,s
+1049,vitality-vs-3dmax-m1-train.dem,16,ct,3DMAX,Team Vitality,3DMAX,armado,eco,s
+1050,vitality-vs-3dmax-m1-train.dem,10,t,Team Vitality,3DMAX,3DMAX,armado,semi,n
+1051,vitality-vs-3dmax-m2-dust2.dem,18,ct,Team Vitality,3DMAX,Team Vitality,semi,armado,n
+1052,vitality-vs-3dmax-m2-dust2.dem,19,ct,Team Vitality,3DMAX,Team Vitality,armado,semi,s
+1053,vitality-vs-3dmax-m2-dust2.dem,20,ct,Team Vitality,3DMAX,Team Vitality,armado,semi,s
+1054,vitality-vs-3dmax-m2-dust2.dem,17,t,Team Vitality,3DMAX,3DMAX,armado,semi,n
+1055,vitality-vs-3dmax-m2-dust2.dem,4,t,3DMAX,Team Vitality,Team Vitality,semi,armado,s
+1056,vitality-vs-3dmax-m2-dust2.dem,5,t,3DMAX,Team Vitality,Team Vitality,eco,armado,s
+1057,vitality-vs-3dmax-m2-dust2.dem,8,t,3DMAX,Team Vitality,Team Vitality,eco,armado,s
+1058,vitality-vs-3dmax-m2-dust2.dem,10,t,3DMAX,Team Vitality,Team Vitality,semi,armado,s
+1059,vitality-vs-3dmax-m2-dust2.dem,14,t,Team Vitality,3DMAX,3DMAX,semi,armado,s
+1060,vitality-vs-3dmax-m2-dust2.dem,15,t,Team Vitality,3DMAX,3DMAX,eco,armado,s
+1061,vitality-vs-mouz-m1-inferno.dem,5,ct,Team Vitality,MOUZ,Team Vitality,armado,semi,s
+1062,vitality-vs-mouz-m1-inferno.dem,7,ct,Team Vitality,MOUZ,Team Vitality,armado,semi,s
+1063,vitality-vs-mouz-m1-inferno.dem,9,ct,Team Vitality,MOUZ,Team Vitality,armado,semi,s
+1064,vitality-vs-mouz-m1-inferno.dem,14,ct,MOUZ,Team Vitality,MOUZ,armado,semi,s
+1065,vitality-vs-mouz-m1-inferno.dem,15,ct,MOUZ,Team Vitality,MOUZ,armado,eco,s
+1066,vitality-vs-mouz-m1-inferno.dem,18,t,MOUZ,Team Vitality,Team Vitality,semi,armado,s
+1067,vitality-vs-mouz-m1-inferno.dem,19,t,MOUZ,Team Vitality,Team Vitality,semi,armado,s
+1068,vitality-vs-mouz-m2-dust2.dem,2,ct,MOUZ,Team Vitality,MOUZ,armado,semi,s
+1069,vitality-vs-mouz-m2-dust2.dem,5,ct,MOUZ,Team Vitality,MOUZ,armado,eco,s
+1070,vitality-vs-mouz-m2-dust2.dem,14,ct,Team Vitality,MOUZ,Team Vitality,armado,eco,s
+1071,vitality-vs-mouz-m2-dust2.dem,8,t,MOUZ,Team Vitality,Team Vitality,eco,armado,s
+1072,vitality-vs-mouz-m2-dust2.dem,10,t,MOUZ,Team Vitality,Team Vitality,semi,armado,s
+1073,vitality-vs-mouz-m2-dust2.dem,12,t,MOUZ,Team Vitality,Team Vitality,semi,armado,s
+1074,vitality-vs-mouz-m2-dust2.dem,16,t,Team Vitality,MOUZ,MOUZ,semi,armado,s
+1075,vitality-vs-mouz-m2-dust2.dem,17,t,Team Vitality,MOUZ,MOUZ,semi,armado,s
+1076,virtus-pro-vs-vitality-m1-anubis.dem,20,ct,Team Vitality,Virtus.pro,Team Vitality,semi,armado,n
+1077,virtus-pro-vs-vitality-m1-anubis.dem,2,t,Virtus.pro,Team Vitality,Team Vitality,eco,armado,s
+1078,virtus-pro-vs-vitality-m1-anubis.dem,4,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1079,virtus-pro-vs-vitality-m1-anubis.dem,6,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1080,virtus-pro-vs-vitality-m1-anubis.dem,9,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1081,virtus-pro-vs-vitality-m1-anubis.dem,14,t,Team Vitality,Virtus.pro,Virtus.pro,semi,armado,s
+1082,virtus-pro-vs-vitality-m1-anubis.dem,15,t,Team Vitality,Virtus.pro,Virtus.pro,semi,armado,s
+1083,virtus-pro-vs-vitality-m2-inferno.dem,15,ct,Team Vitality,Virtus.pro,Team Vitality,semi,armado,n
+1084,virtus-pro-vs-vitality-m2-inferno.dem,18,ct,Team Vitality,Virtus.pro,Team Vitality,armado,semi,s
+1085,virtus-pro-vs-vitality-m2-inferno.dem,16,t,Team Vitality,Virtus.pro,Virtus.pro,armado,semi,n
+1086,virtus-pro-vs-vitality-m2-inferno.dem,3,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1087,virtus-pro-vs-vitality-m2-inferno.dem,6,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1088,virtus-pro-vs-vitality-m2-inferno.dem,9,t,Virtus.pro,Team Vitality,Team Vitality,semi,armado,s
+1089,vitality-vs-3dmax-m1-inferno.dem,6,ct,Team Vitality,3DMAX,Team Vitality,armado,eco,s
+1090,vitality-vs-3dmax-m1-inferno.dem,17,ct,3DMAX,Team Vitality,3DMAX,armado,eco,s
+1091,vitality-vs-3dmax-m1-inferno.dem,8,t,Team Vitality,3DMAX,3DMAX,armado,semi,n
+1092,vitality-vs-3dmax-m1-inferno.dem,19,t,3DMAX,Team Vitality,Team Vitality,armado,semi,n
+1093,vitality-vs-3dmax-m1-inferno.dem,2,t,Team Vitality,3DMAX,3DMAX,semi,armado,s
+1094,vitality-vs-3dmax-m1-inferno.dem,3,t,Team Vitality,3DMAX,3DMAX,eco,armado,s
+1095,vitality-vs-3dmax-m1-inferno.dem,10,t,Team Vitality,3DMAX,3DMAX,semi,armado,s
+1096,vitality-vs-3dmax-m1-inferno.dem,20,t,3DMAX,Team Vitality,Team Vitality,semi,armado,s
+1097,vitality-vs-3dmax-m1-inferno.dem,21,t,3DMAX,Team Vitality,Team Vitality,eco,armado,s
+1098,vitality-vs-3dmax-m2-nuke-p1.dem,4,ct,3DMAX,Team Vitality,3DMAX,armado,semi,s
+1099,vitality-vs-3dmax-m2-nuke-p1.dem,5,ct,3DMAX,Team Vitality,3DMAX,armado,eco,s
+1100,vitality-vs-3dmax-m2-nuke-p1.dem,7,ct,3DMAX,Team Vitality,3DMAX,armado,semi,s
+1101,vitality-vs-faze-m2-anubis.dem,18,ct,Team Vitality,FaZe Clan,Team Vitality,semi,armado,n
+1102,vitality-vs-faze-m2-anubis.dem,10,ct,FaZe Clan,Team Vitality,FaZe Clan,armado,semi,s
+1103,vitality-vs-faze-m2-anubis.dem,14,t,Team Vitality,FaZe Clan,FaZe Clan,armado,semi,n
+1104,vitality-vs-faze-m2-anubis.dem,2,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1105,vitality-vs-faze-m2-anubis.dem,3,t,FaZe Clan,Team Vitality,Team Vitality,eco,armado,s
+1106,vitality-vs-faze-m2-anubis.dem,6,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1107,vitality-vs-faze-m2-anubis.dem,15,t,Team Vitality,FaZe Clan,FaZe Clan,semi,armado,s
+1108,vitality-vs-faze-m2-anubis.dem,16,t,Team Vitality,FaZe Clan,FaZe Clan,eco,armado,s
+1109,vitality-vs-faze-m2-anubis.dem,22,t,Team Vitality,FaZe Clan,FaZe Clan,semi,armado,s
+1110,vitality-vs-faze-m3-dust2.dem,2,ct,Team Vitality,FaZe Clan,Team Vitality,armado,eco,s
+1111,vitality-vs-faze-m3-dust2.dem,4,ct,Team Vitality,FaZe Clan,Team Vitality,armado,semi,s
+1112,vitality-vs-faze-m3-dust2.dem,16,ct,FaZe Clan,Team Vitality,FaZe Clan,armado,semi,s
+1113,vitality-vs-faze-m3-dust2.dem,17,ct,FaZe Clan,Team Vitality,FaZe Clan,armado,semi,s
+1114,vitality-vs-faze-m3-dust2.dem,18,ct,FaZe Clan,Team Vitality,FaZe Clan,armado,eco,s
+1115,vitality-vs-faze-m3-dust2.dem,8,t,Team Vitality,FaZe Clan,FaZe Clan,eco,armado,s
+1116,vitality-vs-faze-m3-dust2.dem,11,t,Team Vitality,FaZe Clan,FaZe Clan,eco,armado,s
+1117,vitality-vs-faze-m3-dust2.dem,21,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1118,vitality-vs-faze-m3-dust2.dem,22,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1119,vitality-vs-faze-m3-dust2.dem,23,t,FaZe Clan,Team Vitality,Team Vitality,eco,armado,s
+1120,vitality-vs-faze-m1-nuke.dem,10,ct,FaZe Clan,Team Vitality,FaZe Clan,semi,armado,n
+1121,vitality-vs-faze-m1-nuke.dem,14,ct,Team Vitality,FaZe Clan,Team Vitality,armado,semi,s
+1122,vitality-vs-faze-m1-nuke.dem,15,ct,Team Vitality,FaZe Clan,Team Vitality,armado,eco,s
+1123,vitality-vs-faze-m1-nuke.dem,5,t,FaZe Clan,Team Vitality,Team Vitality,armado,semi,n
+1124,vitality-vs-faze-m1-nuke.dem,7,t,FaZe Clan,Team Vitality,Team Vitality,armado,semi,n
+1125,vitality-vs-faze-m1-nuke.dem,2,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1126,vitality-vs-faze-m1-nuke.dem,3,t,FaZe Clan,Team Vitality,Team Vitality,eco,armado,s
+1127,vitality-vs-faze-m1-nuke.dem,8,t,FaZe Clan,Team Vitality,Team Vitality,semi,armado,s
+1128,vitality-vs-the-mongolz-m2-nuke.dem,14,ct,Team Vitality,The MongolZ,Team Vitality,armado,semi,s
+1129,vitality-vs-the-mongolz-m2-nuke.dem,15,ct,Team Vitality,The MongolZ,Team Vitality,armado,eco,s
+1130,vitality-vs-the-mongolz-m2-nuke.dem,17,t,Team Vitality,The MongolZ,The MongolZ,armado,semi,n
+1131,vitality-vs-the-mongolz-m2-nuke.dem,5,t,The MongolZ,Team Vitality,Team Vitality,semi,armado,s
+1132,vitality-vs-the-mongolz-m2-nuke.dem,6,t,The MongolZ,Team Vitality,Team Vitality,semi,armado,s
+1133,vitality-vs-the-mongolz-m2-nuke.dem,8,t,The MongolZ,Team Vitality,Team Vitality,semi,armado,s
+1134,vitality-vs-the-mongolz-m2-nuke.dem,10,t,The MongolZ,Team Vitality,Team Vitality,semi,armado,s
+1135,vitality-vs-the-mongolz-m2-nuke.dem,19,t,Team Vitality,The MongolZ,The MongolZ,semi,armado,s
+1136,vitality-vs-the-mongolz-m2-nuke.dem,21,t,Team Vitality,The MongolZ,The MongolZ,semi,armado,s
+1137,vitality-vs-the-mongolz-m1-mirage.dem,11,ct,Team Vitality,The MongolZ,Team Vitality,semi,armado,n
+1138,vitality-vs-the-mongolz-m1-mirage.dem,19,ct,The MongolZ,Team Vitality,The MongolZ,semi,armado,n
+1139,vitality-vs-the-mongolz-m1-mirage.dem,2,ct,Team Vitality,The MongolZ,Team Vitality,armado,eco,s
+1140,vitality-vs-the-mongolz-m1-mirage.dem,4,ct,Team Vitality,The MongolZ,Team Vitality,armado,semi,s
+1141,vitality-vs-the-mongolz-m1-mirage.dem,5,ct,Team Vitality,The MongolZ,Team Vitality,armado,semi,s
+1142,vitality-vs-the-mongolz-m1-mirage.dem,20,t,The MongolZ,Team Vitality,Team Vitality,armado,semi,n
+1143,vitality-vs-the-mongolz-m1-mirage.dem,9,t,Team Vitality,The MongolZ,The MongolZ,eco,armado,s
+1144,vitality-vs-the-mongolz-m1-mirage.dem,16,t,The MongolZ,Team Vitality,Team Vitality,semi,armado,s
