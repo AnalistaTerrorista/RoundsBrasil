@@ -55,6 +55,10 @@ Foi gerado um arquivo de resultado [rouds_brasil.csv](https://github.com/Analist
 
 4. Execute o script create_chart.py para gerar os gráficos
 
+## Contribuição
+
+Caso tenha identificado algum ponto de problema na análise ou tenha alguma sugestão de melhoria ou outras análise é so avisar!
+
 ## Referências
 Demos analisadas:
 
