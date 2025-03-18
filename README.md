@@ -29,6 +29,15 @@ Dentre os brasileiros parece que o MIBR possui uma efiência melhor mas ainda lo
  Eu pensei que a quantidade de rounds jogados poderia de alguma maneira prejudicar a análise dos times brasileiros, porém os times do **Tier Brasil** possuem uma quantidade de rounds maior que o **Tier S** porém com uma eficiência pior, dessa forma a eficiência e a quantidade total de rounds parece não ter uma corelação direta:
  ![alt text](https://github.com/AnalistaTerrorista/RoundsBrasil/blob/main/graph/graph3.png)
 
+## Como executar a análise
+
+
+## Como executar a análise
+1. Baixe as demos e em uma pasta divida ela em subpastas no meu caso criei uma pasta para cada time
+2. Crie um arquivo .env e adicione a variável demos_path com a pasta das demos
+3. Execute o script main.py, o script extrai os mapas das demos e como resultado cria o arquivo **rouds_brasil.csv** com o resultado dos rounds
+4. Execute o script create_chart.py para gerar os gráficos
+
 ## Referências
 Demos analisadas:
 
